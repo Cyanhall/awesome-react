@@ -59,7 +59,7 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### React General Resources [🔝](#readme)
 
-    * [React GitHub](https://github.com/facebook/react) ` 🔥 164k ` ` 🌐 5.6m ` - A declarative, efficient, and flexible JavaScript library for building user interfaces. ` 📝 a day ago`
+    * [React GitHub](https://github.com/facebook/react) ` 🔥 164k ` ` 🌐 5.6m ` - A declarative, efficient, and flexible JavaScript library for building user interfaces. ` 📝 2 days ago`
     * [React Official Website](https://reactjs.org/)   
     * [React Documentation](https://reactjs.org/docs)   
   
@@ -77,8 +77,8 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### React Tutorials [🔝](#readme)
 
-    * [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) ` 🔥 21.8k `  - Cheatsheets for experienced React developers getting started with TypeScript ` 📝 5 days ago`
-    * [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions) ` 🔥 10.3k `  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! ` 📝 5 days ago`
+    * [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) ` 🔥 21.8k `  - Cheatsheets for experienced React developers getting started with TypeScript ` 📝 6 days ago`
+    * [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions) ` 🔥 10.3k `  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! ` 📝 6 days ago`
     * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) ` 🔥 8.5k `  - A description of React's new core algorithm, React Fiber ` 📝 4 years ago`
     * [Entire React code base explanation by visual block schemes](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) ` 🔥 4.2k `  - Entire React code base explanation by visual block schemes (Stack version) ` 📝 9 months ago`
     * [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)   
@@ -114,290 +114,243 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### React Tools [🔝](#readme)
 
-    * [create-react-app](https://github.com/facebook/create-react-app) ` 🔥 85.9k ` ` 🌐 3.4m ` - Set up a modern web app by running one command. ` 📝 8 days ago`
-    * [ant-design](https://github.com/ant-design/ant-design) ` 🔥 66.8k ` ` 🌐 183k ` - A UI Design Language and React UI library ` 📝 2 days ago`
-    * [material-ui](https://github.com/mui-org/material-ui) ` 🔥 65k ` ` 🌐 448k ` - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. ` 📝 a day ago`
-    * [next.js](https://github.com/vercel/next.js) ` 🔥 62.4k ` ` 🌐 207k ` - The React Framework ` 📝 2 days ago`
-    * [storybook](https://github.com/storybookjs/storybook) ` 🔥 58.4k ` ` 🌐 60.2k ` - The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! ` 📝 a day ago`
-    * [gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49k ` ` 🌐 301k ` - Build blazing fast, modern apps and websites with React ` 📝 a day ago`
-    * [react-router](https://github.com/ReactTraining/react-router) ` 🔥 42.6k ` ` 🌐 1.9m ` - Declarative routing for React ` 📝 7 days ago`
-    * [jest](https://github.com/facebook/jest) ` 🔥 34.1k ` ` 🌐 2.8m ` - Delightful JavaScript Testing. ` 📝 3 days ago`
+    * [create-react-app](https://github.com/facebook/create-react-app) ` 🔥 85.9k ` ` 🌐 3.4m ` - Set up a modern web app by running one command. ` 📝 9 days ago`
+    * [ant-design](https://github.com/ant-design/ant-design) ` 🔥 66.8k ` ` 🌐 183k ` - A UI Design Language and React UI library ` 📝 3 days ago`
+    * [material-ui](https://github.com/mui-org/material-ui) ` 🔥 65k ` ` 🌐 448k ` - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. ` 📝 2 days ago`
+    * [next.js](https://github.com/vercel/next.js) ` 🔥 62.4k ` ` 🌐 207k ` - The React Framework ` 📝 3 days ago`
+    * [storybook](https://github.com/storybookjs/storybook) ` 🔥 58.4k ` ` 🌐 60.2k ` - The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! ` 📝 2 days ago`
+    * [gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49k ` ` 🌐 301k ` - Build blazing fast, modern apps and websites with React ` 📝 2 days ago`
+    * [react-router](https://github.com/ReactTraining/react-router) ` 🔥 42.6k ` ` 🌐 1.9m ` - Declarative routing for React ` 📝 8 days ago`
+    * [jest](https://github.com/facebook/jest) ` 🔥 34.1k ` ` 🌐 2.8m ` - Delightful JavaScript Testing. ` 📝 4 days ago`
     * [styled-components](https://github.com/styled-components/styled-components) ` 🔥 32.5k ` ` 🌐 524k ` - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress ` 📝 2 months ago`
     * [Immutable.js](https://github.com/immutable-js/immutable-js) ` 🔥 30.7k `  - Immutable persistent data collections for Javascript which increase efficiency and simplicity. ` 📝 a year ago`
-    * [formik](https://github.com/jaredpalmer/formik) ` 🔥 26.2k ` ` 🌐 81.6k ` - Build forms in React, without the tears ` 📝 15 days ago`
-    * [uppy](https://github.com/transloadit/uppy) ` 🔥 23.7k ` ` 🌐 2.7k ` - The next open source file uploader for web browsers ` 📝 10 days ago`
+    * [uppy](https://github.com/transloadit/uppy) ` 🔥 23.8k ` ` 🌐 2.8k ` - The next open source file uploader for web browsers ` 📝 17 hours ago`
     * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) ` 🔥 22.4k ` ` 🌐 20k ` - Beautiful and accessible drag and drop for lists with React ` 📝 a month ago`
-    * [react-select](https://github.com/JedWatson/react-select) ` 🔥 21.9k ` ` 🌐 116k ` - The Select Component for React.js ` 📝 3 days ago`
-    * [react-virtualized](https://github.com/bvaughn/react-virtualized) ` 🔥 21k ` ` 🌐 24.9k ` - React components for efficiently rendering large lists and tabular data ` 📝 a month ago`
+    * [react-select](https://github.com/JedWatson/react-select) ` 🔥 21.9k ` ` 🌐 116k ` - The Select Component for React.js ` 📝 4 days ago`
+    * [react-virtualized](https://github.com/bvaughn/react-virtualized) ` 🔥 21k ` ` 🌐 25.1k ` - React components for efficiently rendering large lists and tabular data ` 📝 a month ago`
     * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) ` 🔥 20.6k `  - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync) ` 📝 4 months ago`
     * [docz](https://github.com/doczjs/docz) ` 🔥 19.8k ` ` 🌐 3.5k ` - It has never been so easy to document your things! ` 📝 3 months ago`
-    * [Slate](https://github.com/ianstormtaylor/slate) ` 🔥 19.8k ` ` 🌐 52.2k ` - A completely customizable framework for building rich text editors. (Currently in beta.) ` 📝 6 days ago`
-    * [Draft.js](https://github.com/facebook/draft-js) ` 🔥 19.8k ` ` 🌐 81.7k ` - A React framework for building text editors. ` 📝 3 days ago`
-    * [enzyme](https://github.com/airbnb/enzyme) ` 🔥 19.4k ` ` 🌐 328k ` - JavaScript Testing utilities for React ` 📝 23 days ago`
-    * [react-motion](https://github.com/chenglou/react-motion) ` 🔥 19.4k ` ` 🌐 34.7k ` - A spring that solves your animation problems. ` 📝 a year ago`
-    * [immer](https://github.com/immerjs/immer) ` 🔥 19.3k ` ` 🌐 1.2m ` - Create the next immutable state by mutating the current one ` 📝 10 days ago`
-    * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ` 🔥 19k ` ` 🌐 382k ` - Bootstrap components built with React ` 📝 2 days ago`
-    * [react-hook-form](https://github.com/react-hook-form/react-hook-form) ` 🔥 17.8k ` ` 🌐 34.9k ` - React Hooks for forms validation (Web + React Native) ` 📝 3 days ago`
-    * [blueprint](https://github.com/palantir/blueprint) ` 🔥 17.3k ` ` 🌐 8.1k ` - A React-based UI toolkit for the web ` 📝 2 days ago`
-    * [react-admin](https://github.com/marmelab/react-admin) ` 🔥 16k ` ` 🌐 5k ` - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design ` 📝 3 days ago`
-    * [Recharts](https://github.com/recharts/recharts) ` 🔥 15.8k ` ` 🌐 41k ` - Redefined chart library built with React and D3 ` 📝 3 days ago`
+    * [Slate](https://github.com/ianstormtaylor/slate) ` 🔥 19.8k ` ` 🌐 52.5k ` - A completely customizable framework for building rich text editors. (Currently in beta.) ` 📝 a day ago`
+    * [Draft.js](https://github.com/facebook/draft-js) ` 🔥 19.8k ` ` 🌐 81.7k ` - A React framework for building text editors. ` 📝 4 days ago`
+    * [enzyme](https://github.com/airbnb/enzyme) ` 🔥 19.4k ` ` 🌐 329k ` - JavaScript Testing utilities for React ` 📝 3 days ago`
+    * [react-motion](https://github.com/chenglou/react-motion) ` 🔥 19.4k ` ` 🌐 34.8k ` - A spring that solves your animation problems. ` 📝 a year ago`
+    * [immer](https://github.com/immerjs/immer) ` 🔥 19.3k ` ` 🌐 1.2m ` - Create the next immutable state by mutating the current one ` 📝 11 days ago`
+    * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ` 🔥 19k ` ` 🌐 382k ` - Bootstrap components built with React ` 📝 3 days ago`
+    * [blueprint](https://github.com/palantir/blueprint) ` 🔥 17.3k ` ` 🌐 8.1k ` - A React-based UI toolkit for the web ` 📝 3 days ago`
+    * [react-admin](https://github.com/marmelab/react-admin) ` 🔥 16k ` ` 🌐 5k ` - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design ` 📝 4 days ago`
+    * [Recharts](https://github.com/recharts/recharts) ` 🔥 15.8k ` ` 🌐 41k ` - Redefined chart library built with React and D3 ` 📝 4 days ago`
     * [react-loadable](https://github.com/jamiebuilds/react-loadable) ` 🔥 15.7k ` ` 🌐 50.2k ` - A higher order component for loading components with promises. ` 📝 a year ago`
-    * [ink](https://github.com/vadimdemedes/ink) ` 🔥 15.6k ` ` 🌐 35.3k ` - React for interactive command-line apps ` 📝 a month ago`
-    * [ink](https://github.com/vadimdemedes/ink) ` 🔥 15.6k ` ` 🌐 35.3k ` - React for interactive command-line apps ` 📝 a month ago`
-    * [chakra-ui](https://github.com/chakra-ui/chakra-ui/) ` 🔥 15.2k ` ` 🌐 4.1k ` - Simple, Modular & Accessible UI Components for your React Applications ` 📝 3 days ago`
-    * [react-dnd](https://github.com/react-dnd/react-dnd) ` 🔥 15.2k ` ` 🌐 76.7k ` - Drag and Drop for React ` 📝 2 days ago`
-    * [RxDB](https://github.com/pubkey/rxdb) ` 🔥 15.2k ` ` 🌐 626 ` - A realtime Database for JavaScript Applications ` 📝 3 days ago`
-    * [xState](https://github.com/davidkpiano/xstate) ` 🔥 14.7k ` ` 🌐 60.2k ` - State machines and statecharts for the modern web. ` 📝 4 days ago`
-    * [React Sketch.app](https://github.com/airbnb/react-sketchapp) ` 🔥 14.7k ` ` 🌐 256 ` - render React components to Sketch ` 📝 8 months ago`
-    * [react-helmet](https://github.com/nfl/react-helmet) ` 🔥 14.6k ` ` 🌐 358k ` - A document head manager for React ` 📝 7 months ago`
-    * [riotjs](https://github.com/muut/riotjs) ` 🔥 14.4k ` ` 🌐 3.8k ` - Simple and elegant component-based UI library ` 📝 11 days ago`
-    * [react-testing-library](https://github.com/testing-library/react-testing-library) ` 🔥 13.8k ` ` 🌐 1.6m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 9 days ago`
-    * [react-table](https://github.com/tannerlinsley/react-table/) ` 🔥 13.5k ` ` 🌐 27.7k ` - Hooks for building fast and extendable tables and datagrids for React ` 📝 15 days ago`
-    * [Bit](https://github.com/teambit/bit) ` 🔥 12.9k ` ` 🌐 156 ` - Build, distribute, and collaborate on components. ` 📝 a day ago`
+    * [ink](https://github.com/vadimdemedes/ink) ` 🔥 15.6k ` ` 🌐 35.4k ` - React for interactive command-line apps ` 📝 a month ago`
+    * [ink](https://github.com/vadimdemedes/ink) ` 🔥 15.6k ` ` 🌐 35.4k ` - React for interactive command-line apps ` 📝 a month ago`
+    * [chakra-ui](https://github.com/chakra-ui/chakra-ui/) ` 🔥 15.2k ` ` 🌐 4.1k ` - Simple, Modular & Accessible UI Components for your React Applications ` 📝 4 days ago`
+    * [react-dnd](https://github.com/react-dnd/react-dnd) ` 🔥 15.2k ` ` 🌐 76.7k ` - Drag and Drop for React ` 📝 3 days ago`
+    * [RxDB](https://github.com/pubkey/rxdb) ` 🔥 15.2k ` ` 🌐 627 ` - A realtime Database for JavaScript Applications ` 📝 27 minutes ago`
+    * [react-helmet](https://github.com/nfl/react-helmet) ` 🔥 14.6k ` ` 🌐 361k ` - A document head manager for React ` 📝 7 months ago`
+    * [riotjs](https://github.com/muut/riotjs) ` 🔥 14.4k ` ` 🌐 3.8k ` - Simple and elegant component-based UI library ` 📝 12 days ago`
+    * [react-testing-library](https://github.com/testing-library/react-testing-library) ` 🔥 13.9k ` ` 🌐 1.6m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 10 days ago`
+    * [react-table](https://github.com/tannerlinsley/react-table/) ` 🔥 13.5k ` ` 🌐 27.7k ` - Hooks for building fast and extendable tables and datagrids for React ` 📝 16 days ago`
+    * [Bit](https://github.com/teambit/bit) ` 🔥 12.9k ` ` 🌐 156 ` - Build, distribute, and collaborate on components. ` 📝 2 days ago`
     * [react-grid-layout](https://github.com/strml/react-grid-layout) ` 🔥 12.8k ` ` 🌐 6.6k ` - A draggable and resizable grid layout with responsive breakpoints, for React. ` 📝 2 months ago`
     * [reactotron](https://github.com/skellock/reactotron) ` 🔥 12.7k `  - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ` 📝 6 months ago`
-    * [react-canvas](https://github.com/Flipboard/react-canvas) ` 🔥 12.6k ` ` 🌐 519 ` - High performance `<canvas>` rendering for React components ` 📝 4 years ago`
-    * [emotion](https://github.com/emotion-js/emotion) ` 🔥 12.5k ` ` 🌐 115k ` - CSS-in-JS library designed for high performance style composition ` 📝 2 days ago`
-    * [vx](https://github.com/hshoff/vx) ` 🔥 12.4k ` ` 🌐 1.3k ` - visx | visualization components ` 📝 6 days ago`
-    * [react-intl](https://github.com/yahoo/react-intl) ` 🔥 12.3k ` ` 🌐 52.4k ` - The monorepo home to all of the FormatJS related libraries, most notably react-intl. ` 📝 2 days ago`
+    * [react-canvas](https://github.com/Flipboard/react-canvas) ` 🔥 12.6k ` ` 🌐 521 ` - High performance `<canvas>` rendering for React components ` 📝 4 years ago`
+    * [emotion](https://github.com/emotion-js/emotion) ` 🔥 12.5k ` ` 🌐 115k ` - CSS-in-JS library designed for high performance style composition ` 📝 3 days ago`
+    * [vx](https://github.com/hshoff/vx) ` 🔥 12.4k ` ` 🌐 1.3k ` - visx | visualization components ` 📝 4 hours ago`
+    * [react-intl](https://github.com/yahoo/react-intl) ` 🔥 12.3k ` ` 🌐 52.4k ` - The monorepo home to all of the FormatJS related libraries, most notably react-intl. ` 📝 3 days ago`
     * [react-hot-loader](https://github.com/gaearon/react-hot-loader) ` 🔥 12k ` ` 🌐 320k ` - Tweak React components in real time. (Deprecated: use Fast Refresh instead.) ` 📝 5 months ago`
-    * [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) ` 🔥 12k ` ` 🌐 105k ` - The official Semantic-UI-React integration ` 📝 18 days ago`
-    * [react-three-fiber](https://github.com/react-spring/react-three-fiber) ` 🔥 11.9k ` ` 🌐 4.1k ` - A React renderer for Three.js (web and react-native) ` 📝 4 days ago`
-    * [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ` 🔥 11.9k ` ` 🌐 4.1k ` - A React renderer for Three.js (web and react-native) ` 📝 4 days ago`
-    * [recoil](https://github.com/facebookexperimental/Recoil) ` 🔥 11.7k ` ` 🌐 4k ` - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. ` 📝 4 days ago`
+    * [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) ` 🔥 12k ` ` 🌐 105k ` - The official Semantic-UI-React integration ` 📝 19 days ago`
     * [react-dates](https://github.com/airbnb/react-dates) ` 🔥 11.2k ` ` 🌐 26.9k ` - An easily internationalizable, mobile-friendly datepicker library for the web ` 📝 2 years ago`
     * [react-devtools](https://github.com/facebook/react-devtools) ` 🔥 10.9k `  - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. ` 📝 a year ago`
-    * [Fluent UI](https://github.com/microsoft/fluentui) ` 🔥 10.8k ` ` 🌐 6.8k ` - Fluent UI web represents a collection of utilities, React components, and web components for building web applications. ` 📝 a day ago`
+    * [Fluent UI](https://github.com/microsoft/fluentui) ` 🔥 10.8k ` ` 🌐 6.8k ` - Fluent UI web represents a collection of utilities, React components, and web components for building web applications. ` 📝 2 days ago`
     * [evergreen](https://github.com/segmentio/evergreen) ` 🔥 10.5k ` ` 🌐 1.8k ` - Evergreen React UI Framework by Segment ` 📝 2 months ago`
-    * [reactstrap](https://github.com/reactstrap/reactstrap) ` 🔥 9.8k ` ` 🌐 181k ` - Simple React Bootstrap 4 components ` 📝 6 days ago`
-    * [react-window](https://github.com/bvaughn/react-window) ` 🔥 9.8k ` ` 🌐 18.2k ` - React components for efficiently rendering large lists and tabular data ` 📝 3 months ago`
-    * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) ` 🔥 9.6k ` ` 🌐 3.6k ` - A React component for building Web forms from JSON Schema. ` 📝 9 days ago`
+    * [reactstrap](https://github.com/reactstrap/reactstrap) ` 🔥 9.8k ` ` 🌐 181k ` - Simple React Bootstrap 4 components ` 📝 7 days ago`
+    * [react-window](https://github.com/bvaughn/react-window) ` 🔥 9.8k ` ` 🌐 18.3k ` - React components for efficiently rendering large lists and tabular data ` 📝 3 months ago`
     * [react-styleguidist](https://github.com/styleguidist/react-styleguidist) ` 🔥 9.5k ` ` 🌐 5.7k ` - Isolated React component development environment with a living style guide ` 📝 2 months ago`
-    * [downshift](https://github.com/paypal/downshift) ` 🔥 9.3k ` ` 🌐 15.5k ` - A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components. ` 📝 22 days ago`
-    * [react-slick](https://github.com/akiran/react-slick) ` 🔥 9.2k ` ` 🌐 114k ` - React carousel component ` 📝 18 days ago`
+    * [downshift](https://github.com/paypal/downshift) ` 🔥 9.3k ` ` 🌐 15.6k ` - A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components. ` 📝 23 days ago`
+    * [react-slick](https://github.com/akiran/react-slick) ` 🔥 9.2k ` ` 🌐 114k ` - React carousel component ` 📝 19 days ago`
     * [react-desktop](https://github.com/gabrielbull/react-desktop) ` 🔥 9k ` ` 🌐 653 ` - React UI Components for macOS High Sierra and Windows 10 ` 📝 7 months ago`
     * [react-toolbox](https://github.com/react-toolbox/react-toolbox) ` 🔥 8.7k ` ` 🌐 7k ` - A set of React components implementing Google's Material Design specification with the power of CSS Modules ` 📝 2 years ago`
-    * [React PDF](https://github.com/diegomura/react-pdf) ` 🔥 8.6k ` ` 🌐 4k ` - Create PDF files using React ` 📝 16 days ago`
-    * [Victory](https://github.com/FormidableLabs/victory) ` 🔥 8.6k ` ` 🌐 7.5k ` - A collection of composable React components for building interactive data visualizations ` 📝 10 days ago`
+    * [Victory](https://github.com/FormidableLabs/victory) ` 🔥 8.7k ` ` 🌐 7.5k ` - A collection of composable React components for building interactive data visualizations ` 📝 11 days ago`
     * [React 360](https://github.com/facebookarchive/react-360) ` 🔥 8.4k ` ` 🌐 1.1k ` - Create amazing 360 and VR content using React ` 📝 5 months ago`
     * [React 360](https://github.com/facebookarchive/react-360) ` 🔥 8.4k ` ` 🌐 1.1k ` - Create amazing 360 and VR content using React ` 📝 5 months ago`
-    * [nivo](https://github.com/plouc/nivo) ` 🔥 8.3k ` ` 🌐 924 ` - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries ` 📝 a month ago`
+    * [nivo](https://github.com/plouc/nivo) ` 🔥 8.3k ` ` 🌐 929 ` - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries ` 📝 a month ago`
     * [react-text-mask](https://github.com/text-mask/text-mask) ` 🔥 7.9k ` ` 🌐 14k ` - Input mask for React, Angular, Ember, Vue, & plain JavaScript ` 📝 2 months ago`
-    * [react-dropzone](https://github.com/paramaggarwal/react-dropzone) ` 🔥 7.9k ` ` 🌐 58.8k ` - Simple HTML5 drag-drop zone with React.js. ` 📝 4 days ago`
     * [react-vis](https://github.com/uber/react-vis) ` 🔥 7.7k `  - Data Visualization Components ` 📝 7 months ago`
     * [radium](https://github.com/FormidableLabs/radium) ` 🔥 7.4k ` ` 🌐 29.6k ` - A toolchain for React component styling. ` 📝 4 months ago`
-    * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) ` 🔥 7.3k ` ` 🌐 262 ` - Reactive & asynchronous database for powerful React and React Native apps ` 📝 25 days ago`
+    * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) ` 🔥 7.3k ` ` 🌐 266 ` - Reactive & asynchronous database for powerful React and React Native apps ` 📝 4 days ago`
     * [rebass](https://github.com/rebassjs/rebass) ` 🔥 7.1k ` ` 🌐 7.2k ` - React primitive UI components built with styled-system. ` 📝 2 months ago`
-    * [grommet](https://github.com/grommet/grommet) ` 🔥 7k ` ` 🌐 5.8k ` - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package ` 📝 a day ago`
-    * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) ` 🔥 6.9k ` ` 🌐 2.6m ` - React specific linting rules for ESLint ` 📝 a day ago`
-    * [majestic](https://github.com/Raathigesh/majestic) ` 🔥 6.8k ` ` 🌐 243 ` - Zero config GUI for Jest ` 📝 4 months ago`
+    * [grommet](https://github.com/grommet/grommet) ` 🔥 7k ` ` 🌐 5.8k ` - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package ` 📝 2 days ago`
+    * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) ` 🔥 6.9k ` ` 🌐 2.6m ` - React specific linting rules for ESLint ` 📝 2 days ago`
+    * [majestic](https://github.com/Raathigesh/majestic) ` 🔥 6.8k ` ` 🌐 244 ` - Zero config GUI for Jest ` 📝 4 months ago`
     * [om](https://github.com/swannodette/om) ` 🔥 6.7k `  - ClojureScript interface to Facebook's React ` 📝 10 months ago`
-    * [react-cosmos](https://github.com/react-cosmos/react-cosmos) ` 🔥 6.6k ` ` 🌐 709 ` - Dev environment for building scalable, high-quality user interfaces ` 📝 9 days ago`
+    * [react-cosmos](https://github.com/react-cosmos/react-cosmos) ` 🔥 6.6k ` ` 🌐 709 ` - Dev environment for building scalable, high-quality user interfaces ` 📝 10 days ago`
     * [react-draggable](https://github.com/mzabriskie/react-draggable) ` 🔥 6.4k ` ` 🌐 31.2k ` - React draggable component ` 📝 4 months ago`
-    * [Final Form 🏁](https://github.com/final-form/react-final-form) ` 🔥 6.3k ` ` 🌐 9.6k ` - High performance subscription-based form state management for React ` 📝 4 months ago`
-    * [jss](https://github.com/cssinjs/jss) ` 🔥 6.2k ` ` 🌐 174k ` - JSS is an authoring tool for CSS which uses JavaScript as a host language. ` 📝 3 days ago`
-    * [React Rails](https://github.com/reactjs/react-rails) ` 🔥 6.2k ` ` 🌐 15.2k ` - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker. ` 📝 6 months ago`
-    * [baseweb](https://github.com/uber/baseweb) ` 🔥 6k ` ` 🌐 1.2k ` - A React Component library implementing the Base design language ` 📝 a day ago`
-    * [react-i18next](https://github.com/i18next/react-i18next) ` 🔥 6k ` ` 🌐 24k ` - Internationalization for react done right. Using the i18next i18n ecosystem. ` 📝 3 days ago`
-    * [react-icons](https://github.com/gorangajic/react-icons) ` 🔥 5.8k ` ` 🌐 215k ` - svg react icons of popular icon packs ` 📝 5 days ago`
-    * [react-map-gl](https://github.com/uber/react-map-gl) ` 🔥 5.8k ` ` 🌐 11.5k ` - React friendly API wrapper around MapboxGL JS ` 📝 3 days ago`
-    * [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) ` 🔥 5.5k ` ` 🌐 58.2k ` - A simple and reusable datepicker component for React ` 📝 19 days ago`
+    * [jss](https://github.com/cssinjs/jss) ` 🔥 6.2k ` ` 🌐 174k ` - JSS is an authoring tool for CSS which uses JavaScript as a host language. ` 📝 4 days ago`
+    * [React Rails](https://github.com/reactjs/react-rails) ` 🔥 6.2k ` ` 🌐 15.3k ` - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker. ` 📝 7 months ago`
+    * [baseweb](https://github.com/uber/baseweb) ` 🔥 6k ` ` 🌐 1.2k ` - A React Component library implementing the Base design language ` 📝 2 days ago`
+    * [react-i18next](https://github.com/i18next/react-i18next) ` 🔥 6k ` ` 🌐 24k ` - Internationalization for react done right. Using the i18next i18n ecosystem. ` 📝 4 days ago`
+    * [react-icons](https://github.com/gorangajic/react-icons) ` 🔥 5.8k ` ` 🌐 219k ` - svg react icons of popular icon packs ` 📝 2 days ago`
+    * [react-map-gl](https://github.com/uber/react-map-gl) ` 🔥 5.8k ` ` 🌐 11.6k ` - React friendly API wrapper around MapboxGL JS ` 📝 2 days ago`
+    * [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) ` 🔥 5.5k ` ` 🌐 58.2k ` - A simple and reusable datepicker component for React ` 📝 20 days ago`
     * [react-autosuggest by @moroshko](https://github.com/moroshko/react-autosuggest) ` 🔥 5.5k ` ` 🌐 35.7k ` - WAI-ARIA compliant React autosuggest component ` 📝 a month ago`
     * [Why Did You Render](https://github.com/welldone-software/why-did-you-render) ` 🔥 5.3k ` ` 🌐 1.8k ` - why-did-you-render monkey patches React to notify you about avoidable re-renders. ` 📝 a month ago`
     * [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) ` 🔥 5.3k ` ` 🌐 21.1k ` - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects. ` 📝 2 years ago`
-    * [loadable-components](https://github.com/smooth-code/loadable-components) ` 🔥 5.2k ` ` 🌐 8k ` - The recommended Code Splitting library for React ` 📝 12 days ago`
+    * [loadable-components](https://github.com/smooth-code/loadable-components) ` 🔥 5.2k ` ` 🌐 8k ` - The recommended Code Splitting library for React ` 📝 13 days ago`
     * [aphrodite](https://github.com/Khan/aphrodite) ` 🔥 5.2k ` ` 🌐 12.2k ` - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation ` 📝 a month ago`
-    * [rsuite](https://github.com/rsuite/rsuite) ` 🔥 5.2k ` ` 🌐 2.4k ` - A suite of React components . ` 📝 5 days ago`
-    * [react-responsive](https://github.com/wearefractal/react-responsive) ` 🔥 5.2k ` ` 🌐 16.3k ` - CSS media queries in react - for responsive design, and more. ` 📝 2 months ago`
-    * [google-map-react](https://github.com/istarkov/google-map-react) ` 🔥 4.9k ` ` 🌐 26.7k ` - Google map library for react that allows rendering components as markers ` 📝 3 months ago`
-    * [reakit](https://github.com/reakit/reakit) ` 🔥 4.6k ` ` 🌐 1.2k ` - Toolkit for building accessible rich web apps with React ` 📝 a day ago`
-    * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) ` 🔥 4.6k ` ` 🌐 12.2k ` - gcal/outlook like calendar component ` 📝 14 days ago`
-    * [react-data-grid](https://github.com/adazzle/react-data-grid) ` 🔥 4.4k ` ` 🌐 3.8k ` - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like ` 📝 a day ago`
-    * [react-google-maps](https://github.com/tomchentw/react-google-maps) ` 🔥 4.4k ` ` 🌐 55.3k ` - React.js Google Maps integration component ` 📝 3 years ago`
-    * [ReactiveSearch](https://github.com/appbaseio/reactivesearch) ` 🔥 4.3k ` ` 🌐 946 ` - React, React Native and Vue UI components for building data-driven apps with Elasticsearch ` 📝 6 days ago`
+    * [rsuite](https://github.com/rsuite/rsuite) ` 🔥 5.2k ` ` 🌐 2.4k ` - A suite of React components . ` 📝 6 days ago`
+    * [react-responsive](https://github.com/wearefractal/react-responsive) ` 🔥 5.2k ` ` 🌐 16.4k ` - CSS media queries in react - for responsive design, and more. ` 📝 2 months ago`
+    * [google-map-react](https://github.com/istarkov/google-map-react) ` 🔥 4.9k ` ` 🌐 26.8k ` - Google map library for react that allows rendering components as markers ` 📝 3 months ago`
+    * [reakit](https://github.com/reakit/reakit) ` 🔥 4.6k ` ` 🌐 1.2k ` - Toolkit for building accessible rich web apps with React ` 📝 2 days ago`
+    * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) ` 🔥 4.6k ` ` 🌐 12.2k ` - gcal/outlook like calendar component ` 📝 15 days ago`
+    * [react-data-grid](https://github.com/adazzle/react-data-grid) ` 🔥 4.4k ` ` 🌐 3.8k ` - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like ` 📝 2 days ago`
+    * [react-google-maps](https://github.com/tomchentw/react-google-maps) ` 🔥 4.4k ` ` 🌐 55.5k ` - React.js Google Maps integration component ` 📝 3 years ago`
+    * [ReactiveSearch](https://github.com/appbaseio/reactivesearch) ` 🔥 4.3k ` ` 🌐 946 ` - React, React Native and Vue UI components for building data-driven apps with Elasticsearch ` 📝 7 days ago`
     * [react-snap](https://github.com/stereobooster/react-snap) ` 🔥 4.1k ` ` 🌐 2.7k ` - Zero-configuration framework-agnostic static prerendering for SPAs ` 📝 a year ago`
-    * [Reagent](https://github.com/reagent-project/reagent) ` 🔥 4.1k `  - A minimalistic ClojureScript interface to React.js ` 📝 7 days ago`
-    * [unform](https://github.com/Rocketseat/unform) ` 🔥 4k ` ` 🌐 11.8k ` - Performance-focused API for React forms ` 📝 10 days ago`
-    * [react-blessed](https://github.com/Yomguithereal/react-blessed) ` 🔥 3.9k ` ` 🌐 256 ` - A react renderer for blessed. ` 📝 5 days ago`
+    * [Reagent](https://github.com/reagent-project/reagent) ` 🔥 4.1k `  - A minimalistic ClojureScript interface to React.js ` 📝 8 days ago`
+    * [create-react-library](https://github.com/transitive-bullshit/create-react-library) ` 🔥 4k ` ` 🌐 56 ` - CLI for creating reusable react libraries. ` 📝 3 months ago`
+    * [react-blessed](https://github.com/Yomguithereal/react-blessed) ` 🔥 4k ` ` 🌐 256 ` - A react renderer for blessed. ` 📝 5 days ago`
     * [react-joyride](https://github.com/gilbarbara/react-joyride) ` 🔥 3.5k ` ` 🌐 1.9k ` - Create guided tours in your apps ` 📝 2 months ago`
     * [Touchstonejs](https://github.com/touchstonejs/touchstonejs) ` 🔥 3.4k ` ` 🌐 43 ` - Mobile App Framework powered by React ` 📝 5 years ago`
     * [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) ` 🔥 3.3k ` ` 🌐 149k ` - Font Awesome 5 React component ` 📝 a month ago`
-    * [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) ` 🔥 3.2k ` ` 🌐 11.9k ` - Simple and complete React hooks testing utilities that encourage good testing practices. ` 📝 5 days ago`
-    * [baobab](https://github.com/Yomguithereal/baobab) ` 🔥 3.1k ` ` 🌐 561 ` - JavaScript & TypeScript persistent and optionally immutable data tree with cursors. 
-    * [pigeon-maps](https://github.com/mariusandra/pigeon-maps) ` 🔥 3.1k ` ` 🌐 709 ` - ReactJS Maps without external dependencies ` 📝 2 months ago`
-    * [Effector](https://github.com/zerobias/effector) ` 🔥 3k `  - The state manager ` 📝 5 days ago`
+    * [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) ` 🔥 3.2k ` ` 🌐 12.1k ` - Simple and complete React hooks testing utilities that encourage good testing practices. ` 📝 19 hours ago`
+    * [baobab](https://github.com/Yomguithereal/baobab) ` 🔥 3.1k `  - JavaScript & TypeScript persistent and optionally immutable data tree with cursors. 
+    * [pigeon-maps](https://github.com/mariusandra/pigeon-maps) ` 🔥 3.1k ` ` 🌐 712 ` - ReactJS Maps without external dependencies ` 📝 2 months ago`
+    * [Effector](https://github.com/zerobias/effector) ` 🔥 3k `  - The state manager ` 📝 a day ago`
     * [react-stockcharts](https://github.com/rrag/react-stockcharts) ` 🔥 3k ` ` 🌐 1.3k ` - Highly customizable stock charts with ReactJS and d3 ` 📝 2 years ago`
-    * [echarts-for-react](https://github.com/hustcc/echarts-for-react) ` 🔥 3k ` ` 🌐 8.2k ` - Apache ECharts (incubating) components for React wrapper. 一个简单的 Apache echarts (incubating) 的 React 封装。 ` 📝 5 days ago`
+    * [echarts-for-react](https://github.com/hustcc/echarts-for-react) ` 🔥 3k ` ` 🌐 8.3k ` - Apache ECharts (incubating) components for React wrapper. 一个简单的 Apache echarts (incubating) 的 React 封装。 ` 📝 3 days ago`
     * [react-chartjs](https://github.com/jhudson8/react-chartjs) ` 🔥 2.9k ` ` 🌐 5.4k ` - common react charting components using chart.js 
-    * [ring-ui](https://github.com/JetBrains/ring-ui) ` 🔥 2.6k ` ` 🌐 47 ` - A collection of JetBrains Web UI components ` 📝 2 days ago`
+    * [ring-ui](https://github.com/JetBrains/ring-ui) ` 🔥 2.6k ` ` 🌐 47 ` - A collection of JetBrains Web UI components ` 📝 3 days ago`
     * [Express React views](https://github.com/reactjs/express-react-views) ` 🔥 2.6k ` ` 🌐 3.8k ` - This is an Express view engine which renders React components on server. It renders static markup and *does not* support mounting those views on the client. ` 📝 a year ago`
-    * [ngReact](https://github.com/davidchang/ngReact) ` 🔥 2.6k ` ` 🌐 479 ` - Use React Components in Angular ` 📝 2 years ago`
+    * [ngReact](https://github.com/davidchang/ngReact) ` 🔥 2.6k `  - Use React Components in Angular ` 📝 2 years ago`
     * [formsy-react](https://github.com/christianalfoni/formsy-react) ` 🔥 2.6k `  - A form input builder and validator for React JS ` 📝 3 years ago`
-    * [elastic ui framework](https://github.com/elastic/eui) ` 🔥 2.5k ` ` 🌐 589 ` - Elastic UI Framework ` 📝 a day ago`
-    * [reactfire](https://github.com/firebase/reactfire) ` 🔥 2.4k ` ` 🌐 3.1k ` - Hooks, Context Providers, and Components that make it easy to interact with Firebase. ` 📝 a month ago`
+    * [elastic ui framework](https://github.com/elastic/eui) ` 🔥 2.5k ` ` 🌐 589 ` - Elastic UI Framework ` 📝 2 days ago`
     * [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) ` 🔥 2.3k ` ` 🌐 2.1m ` - Static AST checker for a11y rules on JSX elements. ` 📝 2 months ago`
-    * [qrcode.react](https://github.com/zpao/qrcode.react) ` 🔥 2.3k ` ` 🌐 13.7k ` - A `<QRCode/>` component for use with React. ` 📝 a month ago`
-    * [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) ` 🔥 2.1k ` ` 🌐 4.8k ` - WAI-ARIA compliant React autocomplete (combobox) component ` 📝 3 years ago`
+    * [qrcode.react](https://github.com/zpao/qrcode.react) ` 🔥 2.3k ` ` 🌐 13.8k ` - A `<QRCode/>` component for use with React. ` 📝 a month ago`
+    * [ReactJS.NET](https://github.com/reactjs/React.NET) ` 🔥 2.1k ` ` 🌐 15 ` - .NET library for JSX compilation and server-side rendering of React components ` 📝 3 months ago`
     * [Semiotic](https://github.com/nteract/semiotic) ` 🔥 2.1k ` ` 🌐 271 ` - A data visualization framework combining React & D3 ` 📝 2 months ago`
-    * [aleph.js](https://github.com/alephjs/aleph.js) ` 🔥 2k `  - The Full-stack Framework for React and other in Deno. ` 📝 3 days ago`
+    * [aleph.js](https://github.com/alephjs/aleph.js) ` 🔥 2k `  - The Full-stack Framework for React and other in Deno. ` 📝 4 days ago`
     * [navi](https://github.com/frontarm/navi) ` 🔥 2k ` ` 🌐 558 ` - Declarative, asynchronous routing for React. ` 📝 8 months ago`
     * [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) ` 🔥 2k ` ` 🌐 2.3k ` - A resizable and draggable component for React. ` 📝 2 months ago`
-    * [ReactJS.NET](https://github.com/reactjs/React.NET) ` 🔥 2k ` ` 🌐 15 ` - .NET library for JSX compilation and server-side rendering of React components ` 📝 3 months ago`
+    * [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) ` 🔥 2k ` ` 🌐 4k ` - Create skeleton screens that automatically adapt to your app! ` 📝 8 months ago`
     * [react-art](https://github.com/facebook/react-art) ` 🔥 2k `  - React Bridge to the ART Drawing Library ` 📝 2 years ago`
-    * [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) ` 🔥 1.9k ` ` 🌐 4k ` - Create skeleton screens that automatically adapt to your app! ` 📝 8 months ago`
     * [react-popper](https://github.com/popperjs/react-popper) ` 🔥 1.9k ` ` 🌐 184k ` - Official React library to use Popper, the positioning library ` 📝 2 months ago`
-    * [react-cookie](https://github.com/reactivestack/cookies) ` 🔥 1.9k ` ` 🌐 19.1k ` - Load and save cookies within your React application ` 📝 4 months ago`
+    * [react-cookie](https://github.com/reactivestack/cookies) ` 🔥 1.9k ` ` 🌐 19.3k ` - Load and save cookies within your React application ` 📝 4 months ago`
     * [reactn](https://github.com/CharlesStover/reactn) ` 🔥 1.9k ` ` 🌐 1.1k ` - React, but with built-in global state management. ` 📝 2 months ago`
-    * [primereact](https://github.com/primefaces/primereact) ` 🔥 1.8k ` ` 🌐 4.4k ` - The Most Complete React UI Component Library ` 📝 2 days ago`
+    * [primereact](https://github.com/primefaces/primereact) ` 🔥 1.8k ` ` 🌐 4.4k ` - The Most Complete React UI Component Library ` 📝 3 days ago`
     * [react-list](https://github.com/orgsync/react-list) ` 🔥 1.8k ` ` 🌐 1.9k ` - A versatile infinite scroll React component. ` 📝 4 months ago`
     * [react-hotkeys](https://github.com/greena13/react-hotkeys) ` 🔥 1.8k ` ` 🌐 15.1k ` - Declarative hotkey and focus area management for React ` 📝 a year ago`
     * [react-resolver](https://github.com/ericclemmons/react-resolver) ` 🔥 1.7k ` ` 🌐 195 ` - Async rendering & data-fetching for universal React applications. ` 📝 3 years ago`
     * [rheostat](https://github.com/airbnb/rheostat) ` 🔥 1.6k ` ` 🌐 1.5k ` - Rheostat is a www, mobile, and accessible slider component built with React ` 📝 9 months ago`
     * [universal-router](https://github.com/kriasoft/universal-router) ` 🔥 1.5k ` ` 🌐 3.7k ` - A simple middleware-style router for isomorphic JavaScript web apps ` 📝 a year ago`
-    * [geist-org/react](https://github.com/geist-org/react) ` 🔥 1.5k ` ` 🌐 271 ` - Modern and minimalist React UI library. ` 📝 12 days ago`
-    * [react-three](https://github.com/Izzimach/react-three) ` 🔥 1.5k ` ` 🌐 245 ` - React bindings to create and control a 3D scene using three.js ` 📝 5 months ago`
-    * [react-three-renderer](https://github.com/toxicFork/react-three-renderer) ` 🔥 1.5k ` ` 🌐 668 ` - Render into a three.js canvas using React. ` 📝 a year ago`
+    * [geist-org/react](https://github.com/geist-org/react) ` 🔥 1.5k ` ` 🌐 271 ` - Modern and minimalist React UI library. ` 📝 13 days ago`
     * [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) ` 🔥 1.5k ` ` 🌐 3.4k ` - A React binding of mapbox-gl-js ` 📝 3 months ago`
     * [react-resizable](https://github.com/strml/react-resizable) ` 🔥 1.4k ` ` 🌐 5.9k ` - A simple React component that is resizable with a handle. ` 📝 5 months ago`
-    * [react-spinkit](https://github.com/KyleAMathews/react-spinkit) ` 🔥 1.4k ` ` 🌐 5.2k ` - A collection of loading indicators animated with CSS for React ` 📝 4 years ago`
-    * [scalajs-react](https://github.com/japgolly/scalajs-react) ` 🔥 1.4k `  - Facebook's React on Scala.JS ` 📝 7 days ago`
-    * [React Figma](https://github.com/react-figma/react-figma) ` 🔥 1.4k ` ` 🌐 45 ` - A React renderer for Figma ` 📝 a month ago`
+    * [react-spinkit](https://github.com/KyleAMathews/react-spinkit) ` 🔥 1.4k ` ` 🌐 5.3k ` - A collection of loading indicators animated with CSS for React ` 📝 4 years ago`
+    * [scalajs-react](https://github.com/japgolly/scalajs-react) ` 🔥 1.4k `  - Facebook's React on Scala.JS ` 📝 8 days ago`
     * [google-maps-react](https://github.com/fullstackreact/google-maps-react) ` 🔥 1.4k ` ` 🌐 22k ` - Companion code to the 'How to Write a Google Maps React Component' Tutorial ` 📝 10 months ago`
     * [react-resizable-box](https://github.com/bokuweb/react-resizable-box) ` 🔥 1.3k ` ` 🌐 13k ` - A resizable component for React. ` 📝 2 months ago`
-    * [react-instantsearch](https://github.com/algolia/react-instantsearch) ` 🔥 1.3k ` ` 🌐 2.8k ` - Lightning-fast search for React and React Native applications, by Algolia. ` 📝 9 days ago`
-    * [uniforms](https://github.com/vazco/uniforms) ` 🔥 1.3k ` ` 🌐 1.3k ` - A React library for building forms from any schema. ` 📝 9 days ago`
+    * [react-instantsearch](https://github.com/algolia/react-instantsearch) ` 🔥 1.3k ` ` 🌐 2.8k ` - Lightning-fast search for React and React Native applications, by Algolia. ` 📝 10 days ago`
     * [freezer-js](https://github.com/arqex/freezer) ` 🔥 1.3k ` ` 🌐 362 ` - A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way. ` 📝 3 years ago`
-    * [react-forms](https://github.com/prometheusresearch/react-forms) ` 🔥 1.2k ` ` 🌐 283 ` - Forms library for React. ` 📝 3 years ago`
     * [tcomb-form](https://github.com/gcanti/tcomb-form) ` 🔥 1.2k ` ` 🌐 542 ` - Forms library for react ` 📝 2 years ago`
-    * [react-device-detect](https://github.com/duskload/react-device-detect) ` 🔥 1.1k ` ` 🌐 9.4k ` - Detect device, and render view according to detected device type. ` 📝 2 months ago`
-    * [Reapop](https://github.com/LouisBarranqueiro/reapop) ` 🔥 1.1k ` ` 🌐 297 ` - A simple and customizable React notifications system ` 📝 4 days ago`
+    * [react-device-detect](https://github.com/duskload/react-device-detect) ` 🔥 1.1k ` ` 🌐 9.5k ` - Detect device, and render view according to detected device type. ` 📝 2 months ago`
+    * [Reapop](https://github.com/LouisBarranqueiro/reapop) ` 🔥 1.1k ` ` 🌐 297 ` - A simple and customizable React notifications system ` 📝 7 hours ago`
     * [cortex](https://github.com/mquan/cortex) ` 🔥 1.1k `  - An immutable data store for managing deeply nested structure with React 
-    * [react-cursor](https://github.com/dustingetz/react-cursor) ` 🔥 1k ` ` 🌐 42 ` - Immutable state for React.js ` 📝 4 years ago`
+    * [react-cursor](https://github.com/dustingetz/react-cursor) ` 🔥 1k ` ` 🌐 44 ` - Immutable state for React.js ` 📝 4 years ago`
     * [react-bulma-components](https://github.com/couds/react-bulma-components) ` 🔥 997 ` ` 🌐 2.7k ` - React components for Bulma framework ` 📝 2 months ago`
-    * [react-spaces](https://github.com/aeagle/react-spaces) ` 🔥 911 ` ` 🌐 54 ` - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces. ` 📝 25 days ago`
-    * [react.backbone](https://github.com/usepropeller/react.backbone) ` 🔥 849 ` ` 🌐 50 ` - Plugin for React to make Backbone migration easier 
-    * [react-magic](https://github.com/reactjs/react-magic) ` 🔥 847 `  - Automatically AJAXify plain HTML with the power of React. It's magic! 
+    * [react-spaces](https://github.com/aeagle/react-spaces) ` 🔥 911 ` ` 🌐 54 ` - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces. ` 📝 a month ago`
+    * [react.backbone](https://github.com/usepropeller/react.backbone) ` 🔥 849 ` ` 🌐 50 ` - Plugin for React to make Backbone migration easier ` 📝 3 years ago`
+    * [react-magic](https://github.com/reactjs/react-magic) ` 🔥 848 ` ` 🌐 346 ` - Automatically AJAXify plain HTML with the power of React. It's magic! ` 📝 2 years ago`
     * [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) ` 🔥 816 ` ` 🌐 417 ` - A fully accessible React modal built according WAI-ARIA Authoring Practices 
-    * [Backbone React Component](https://github.com/magalhas/backbone-react-component) ` 🔥 815 `  - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server 
+    * [Backbone React Component](https://github.com/magalhas/backbone-react-component) ` 🔥 815 `  - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server ` 📝 4 years ago`
     * [refract](https://github.com/fanduel-oss/refract) ` 🔥 790 ` ` 🌐 13 ` - Harness the power of reactive programming to supercharge your components ` 📝 a year ago`
     * [Winterfell](https://github.com/andrewhathaway/Winterfell) ` 🔥 786 ` ` 🌐 32 ` - Generate complex, validated and extendable JSON-based forms in React. ` 📝 3 years ago`
-    * [React Bootstrap Typeahead](https://github.com/ericgio/react-bootstrap-typeahead) ` 🔥 760 ` ` 🌐 4.1k ` - React typeahead with Bootstrap styling ` 📝 7 days ago`
-    * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) ` 🔥 745 ` ` 🌐 260 ` - morph your svg component one into another other ` 📝 3 years ago`
-    * [React Hardware](https://github.com/iamdustan/react-hardware) ` 🔥 736 ` ` 🌐 5 ` - A React renderer for Hardware. ` 📝 2 years ago`
+    * [React Bootstrap Typeahead](https://github.com/ericgio/react-bootstrap-typeahead) ` 🔥 761 ` ` 🌐 4.1k ` - React typeahead with Bootstrap styling ` 📝 20 hours ago`
+    * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) ` 🔥 746 ` ` 🌐 261 ` - morph your svg component one into another other ` 📝 3 years ago`
     * [Chartify](https://github.com/kis/chartify) ` 🔥 671 ` ` 🌐 25 ` - React.js plugin for building charts using CSS ` 📝 10 months ago`
     * [morearty.js](https://github.com/moreartyjs/moreartyjs) ` 🔥 670 ` ` 🌐 33 ` - Morearty.js - centralized state management for React in pure JavaScript ` 📝 5 years ago`
-    * [react-archer](https://github.com/pierpo/react-archer) ` 🔥 654 ` ` 🌐 131 ` - Draw arrows between React elements ` 📝 3 months ago`
-    * [newforms](https://github.com/insin/newforms) ` 🔥 649 ` ` 🌐 74 ` - Isomorphic form-handling for React 
-    * [React-ApexCharts](https://github.com/apexcharts/react-apexcharts) ` 🔥 648 ` ` 🌐 7.1k ` - React Component for ApexCharts ` 📝 2 months ago`
-    * [react-extras](https://github.com/sindresorhus/react-extras) ` 🔥 644 ` ` 🌐 129 ` - Useful components and utilities for working with React ` 📝 a month ago`
-    * [ChatUI](https://github.com/alibaba/ChatUI) ` 🔥 632 ` ` 🌐 10 ` - The UI design language and React library for Conversational UI ` 📝 15 days ago`
-    * [rx-react](https://github.com/fdecampredon/rx-react) ` 🔥 618 `  - ReactJS bindings for RxJS 
+    * [React-ApexCharts](https://github.com/apexcharts/react-apexcharts) ` 🔥 654 ` ` 🌐 7.2k ` - React Component for ApexCharts ` 📝 2 months ago`
+    * [react-archer](https://github.com/pierpo/react-archer) ` 🔥 653 ` ` 🌐 131 ` - Draw arrows between React elements ` 📝 3 months ago`
+    * [react-extras](https://github.com/sindresorhus/react-extras) ` 🔥 648 ` ` 🌐 129 ` - Useful components and utilities for working with React ` 📝 a month ago`
+    * [ChatUI](https://github.com/alibaba/ChatUI) ` 🔥 632 ` ` 🌐 10 ` - The UI design language and React library for Conversational UI ` 📝 16 days ago`
+    * [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) ` 🔥 600 ` ` 🌐 3.7k ` - Accessible Accordion component for React ` 📝 2 months ago`
     * [ReSub](https://github.com/Microsoft/ReSub) ` 🔥 599 ` ` 🌐 106 ` - A library for writing React components that automatically manage subscriptions to data sources simply by accessing them ` 📝 2 months ago`
-    * [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) ` 🔥 598 ` ` 🌐 3.6k ` - Accessible Accordion component for React ` 📝 2 months ago`
-    * [react-captcha](https://github.com/appleboy/react-recaptcha) ` 🔥 574 ` ` 🌐 2.3k ` - A react.js reCAPTCHA for Google ` 📝 5 months ago`
     * [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) ` 🔥 563 `  - A React component that adds pan and zoom features to SVG ` 📝 a month ago`
-    * [react-jade](https://github.com/ForbesLindesay/react-jade) ` 🔥 556 ` ` 🌐 138 ` - DEPRECATED, see ` 📝 4 years ago`
+    * [react-jade](https://github.com/ForbesLindesay/react-jade) ` 🔥 555 ` ` 🌐 138 ` - DEPRECATED, see ` 📝 4 years ago`
     * [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) ` 🔥 553 ` ` 🌐 171 ` - A sortable and resizable pane component for React. ` 📝 2 years ago`
-    * [react-nil](https://github.com/pmndrs/react-nil) ` 🔥 552 ` ` 🌐 9 ` - ⃝ A react null renderer ` 📝 3 months ago`
-    * [react-esi](https://github.com/dunglas/react-esi) ` 🔥 526 ` ` 🌐 5 ` - React ESI: Blazing-fast Server-Side Rendering for React and Next.js ` 📝 a month ago`
+    * [react-esi](https://github.com/dunglas/react-esi) ` 🔥 528 ` ` 🌐 5 ` - React ESI: Blazing-fast Server-Side Rendering for React and Next.js ` 📝 5 days ago`
     * [statty](https://github.com/vesparny/statty) ` 🔥 517 ` ` 🌐 6 ` - A tiny and unobtrusive state management library for React and Preact apps ` 📝 3 years ago`
-    * [react-keydown](https://github.com/glortho/react-keydown) ` 🔥 493 ` ` 🌐 1.1k ` - Lightweight keydown wrapper for React components ` 📝 8 days ago`
-    * [react-formal](https://github.com/jquense/react-formal) ` 🔥 487 ` ` 🌐 178 ` - Sophisticated HTML form management for React ` 📝 17 days ago`
-    * [hookstate](https://github.com/avkonst/hookstate) ` 🔥 485 ` ` 🌐 76 ` - The simple but very powerful and incredibly fast state management for React that is based on hooks ` 📝 14 days ago`
+    * [hookstate](https://github.com/avkonst/hookstate) ` 🔥 495 ` ` 🌐 77 ` - The simple but very powerful and incredibly fast state management for React that is based on hooks ` 📝 2 days ago`
+    * [react-keydown](https://github.com/glortho/react-keydown) ` 🔥 493 ` ` 🌐 1.1k ` - Lightweight keydown wrapper for React components ` 📝 9 days ago`
     * [rbx](https://github.com/dfee/rbx) ` 🔥 465 ` ` 🌐 778 ` - rbx – The Comprehensive Bulma UI Framework for React ` 📝 2 years ago`
-    * [react-bulma](https://github.com/kulakowka/react-bulma) ` 🔥 448 ` ` 🌐 353 ` - React.js components for Modern CSS framework based on Flexbox ` 📝 2 years ago`
-    * [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) ` 🔥 435 `  - DEPRECATED – Provides React JSX support for Coffeescript 
-    * [react-masonry-css](https://github.com/paulcollett/react-masonry-css) ` 🔥 429 ` ` 🌐 2.2k ` - React Masonry layout component powered by CSS, dependancy free 
+    * [react-bulma](https://github.com/kulakowka/react-bulma) ` 🔥 447 ` ` 🌐 353 ` - React.js components for Modern CSS framework based on Flexbox ` 📝 2 years ago`
+    * [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) ` 🔥 435 ` ` 🌐 2k ` - DEPRECATED – Provides React JSX support for Coffeescript ` 📝 4 years ago`
+    * [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) ` 🔥 431 ` ` 🌐 3 ` - A React component to view a PDF document ` 📝 2 days ago`
     * [Maple.js](https://github.com/Wildhoney/Maple.js) ` 🔥 428 ` ` 🌐 1 ` - Maple.js is a React webcomponents based framework mixing ES6 with Custom Elements, HTML Imports and Shadow DOM. It has in-built support for SASS and JSX, including a Gulp task for vulcanizing your project. ` 📝 5 years ago`
-    * [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) ` 🔥 427 ` ` 🌐 3 ` - A React component to view a PDF document ` 📝 9 days ago`
-    * [immstruct](https://github.com/omniscientjs/immstruct) ` 🔥 375 ` ` 🌐 200 ` - Immutable data structures with history for top-to-bottom properties in component based libraries like React. Based on Immutable.js ` 📝 4 years ago`
-    * [msx](https://github.com/insin/msx) ` 🔥 370 ` ` 🌐 62 ` - JSX for Mithril.js 0.x ` 📝 4 years ago`
-    * [react-gtm-module](https://github.com/alinemorelli/react-gtm) ` 🔥 353 ` ` 🌐 1.1k ` - React Google Tag Manager ` 📝 5 months ago`
+    * [immstruct](https://github.com/omniscientjs/immstruct) ` 🔥 375 ` ` 🌐 200 ` - Immutable data structures with history for top-to-bottom properties in component based libraries like React. Based on Immutable.js 
+    * [msx](https://github.com/insin/msx) ` 🔥 370 ` ` 🌐 62 ` - JSX for Mithril.js 0.x 
+    * [react-gtm-module](https://github.com/alinemorelli/react-gtm) ` 🔥 356 ` ` 🌐 1.1k ` - React Google Tag Manager ` 📝 5 months ago`
     * [react-i13n](https://github.com/yahoo/react-i13n) ` 🔥 331 ` ` 🌐 27 ` - A performant, scalable and pluggable approach to instrumenting your React application. ` 📝 4 months ago`
-    * [reaptcha](https://github.com/sarneeh/reaptcha) ` 🔥 324 ` ` 🌐 264 ` - Google reCAPTCHA v2 for React ` 📝 7 months ago`
     * [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) ` 🔥 311 ` ` 🌐 798 ` - A Google Maps component for React.js ` 📝 3 years ago`
     * [baobab-react](https://github.com/Yomguithereal/baobab-react) ` 🔥 303 ` ` 🌐 267 ` - React integration for Baobab. ` 📝 10 months ago`
-    * [react-lodash](https://github.com/typicode/react-lodash) ` 🔥 300 ` ` 🌐 537 ` - Lodash as React components ` 📝 2 years ago`
-    * [wingspan-forms](https://github.com/wingspan/wingspan-forms) ` 🔥 292 `  - A dynamic form library for Facebook React, providing abstractions for building dynamic forms and controlled grids. Widgets provided by Telerik's KendoUI. ` 📝 4 years ago`
-    * [turbo-react](https://github.com/ssorallen/turbo-react) ` 🔥 273 `  - A JavaScript library that transitions between static HTML pages on navigation; no app server required. 
+    * [react-lodash](https://github.com/typicode/react-lodash) ` 🔥 301 ` ` 🌐 545 ` - Lodash as React components ` 📝 2 years ago`
+    * [turbo-react](https://github.com/ssorallen/turbo-react) ` 🔥 273 `  - A JavaScript library that transitions between static HTML pages on navigation; no app server required. ` 📝 3 years ago`
     * [curi](https://github.com/pshrmn/curi) ` 🔥 263 `  - A JavaScript router for single-page applications 
-    * [react-reactive-form](https://github.com/bietkul/react-reactive-form) ` 🔥 256 ` ` 🌐 183 ` - Angular like reactive forms in React. ` 📝 19 days ago`
-    * [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) ` 🔥 234 ` ` 🌐 4.1k ` - Official CKEditor 5 React component. ` 📝 22 days ago`
     * [Keo](https://github.com/Wildhoney/Keo) ` 🔥 223 ` ` 🌐 7 ` - Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free. ` 📝 10 months ago`
-    * [react-googlemaps](https://github.com/pieterv/react-googlemaps) ` 🔥 218 ` ` 🌐 118 ` - A declarative React interface to Google Maps ` 📝 5 years ago`
-    * [react-geo](https://github.com/terrestris/react-geo) ` 🔥 217 ` ` 🌐 86 ` - A set of geo related modules to use in combination with React, Ant Design and OpenLayers. ` 📝 4 days ago`
-    * [react-play](https://github.com/ssorallen/react-play) ` 🔥 216 `  - Render React components in the Play Framework with JDK8's JavaScript engine ` 📝 3 years ago`
+    * [react-googlemaps](https://github.com/pieterv/react-googlemaps) ` 🔥 218 `  - A declarative React interface to Google Maps ` 📝 5 years ago`
+    * [react-geo](https://github.com/terrestris/react-geo) ` 🔥 218 ` ` 🌐 86 ` - A set of geo related modules to use in combination with React, Ant Design and OpenLayers. ` 📝 a day ago`
     * [Hydux](https://github.com/hydux/hydux) ` 🔥 215 ` ` 🌐 12 ` - A light-weight type-safe Elm-like alternative for Redux ecosystem, inspired by hyperapp and Elmish ` 📝 2 years ago`
-    * [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) ` 🔥 208 ` ` 🌐 391 ` - Easily apply tilt hover effect on React components - lightweight/zero dependencies ` 📝 4 days ago`
+    * [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) ` 🔥 213 ` ` 🌐 404 ` - Easily apply tilt hover effect on React components - lightweight/zero dependencies ` 📝 20 hours ago`
     * [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) ` 🔥 205 ` ` 🌐 55 ` - React utility component primitives & UI framework for use with Tailwind CSS ` 📝 6 months ago`
-    * [tcomb-react](https://github.com/gcanti/tcomb-react) ` 🔥 201 ` ` 🌐 366 ` - Alternative syntax for PropTypes ` 📝 3 years ago`
-    * [valuelink](https://github.com/Volicon/valuelink) ` 🔥 193 ` ` 🌐 148 ` - Callback-free React forms with painless validation. ` 📝 2 years ago`
-    * [reaviz](https://github.com/reaviz/reaviz) ` 🔥 192 ` ` 🌐 129 ` - Data visualization library for React based on D3 ` 📝 9 days ago`
-    * [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) ` 🔥 176 ` ` 🌐 66 ` - A React.js mixin for using @desandro's Masonry ` 📝 5 years ago`
-    * [reaflow](https://github.com/reaviz/reaflow/) ` 🔥 174 ` ` 🌐 4 ` - Node-based Visualizations for React ` 📝 7 days ago`
-    * [jreact](https://github.com/KnisterPeter/jreact) ` 🔥 168 `  - react.js on server-side java (with rhino or nashorn) 
-    * [react-famous](https://github.com/pilwon/react-famous) ` 🔥 167 ` ` 🌐 10 ` - React bridge to Famo.us 
-    * [NeoForm](https://github.com/zero-plus-x/neoform) ` 🔥 162 ` ` 🌐 5 ` - React form state management and validation ` 📝 2 years ago`
-    * [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) ` 🔥 160 ` ` 🌐 8 ` - A hooks to svg drawing. ` 📝 a month ago`
+    * [tcomb-react](https://github.com/gcanti/tcomb-react) ` 🔥 202 ` ` 🌐 369 ` - Alternative syntax for PropTypes ` 📝 3 years ago`
+    * [reaviz](https://github.com/reaviz/reaviz) ` 🔥 193 ` ` 🌐 129 ` - Data visualization library for React based on D3 ` 📝 10 days ago`
+    * [reaflow](https://github.com/reaviz/reaflow/) ` 🔥 174 ` ` 🌐 4 ` - Node-based Visualizations for React ` 📝 2 days ago`
+    * [react-famous](https://github.com/pilwon/react-famous) ` 🔥 167 ` ` 🌐 10 ` - React bridge to Famo.us ` 📝 6 years ago`
+    * [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) ` 🔥 160 ` ` 🌐 8 ` - A hooks to svg drawing. ` 📝 8 hours ago`
     * [tails-ui](https://github.com/knipferrc/tails-ui) ` 🔥 157 ` ` 🌐 14 ` - Clean UI based on tailwindcss ` 📝 3 years ago`
-    * [jade-react](https://github.com/duncanbeevers/jade-react) ` 🔥 152 `  - Compile Jade templates to React.DOM expressions 
-    * [firedux](https://github.com/AndersDJohnson/firedux) ` 🔥 148 ` ` 🌐 17 ` - Firebase + Redux for ReactJS ` 📝 2 months ago`
+    * [jade-react](https://github.com/duncanbeevers/jade-react) ` 🔥 152 `  - Compile Jade templates to React.DOM expressions ` 📝 7 years ago`
     * [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) ` 🔥 146 ` ` 🌐 70 ` - A wrapper for placing elements along div borders. ` 📝 a year ago`
-    * [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) ` 🔥 133 ` ` 🌐 13 ` - A dynamic form component for react using JSON-Schema. ` 📝 5 years ago`
     * [react-backbone](https://github.com/jhudson8/react-backbone) ` 🔥 132 `  - backbone-aware mixins for react and a whole lot more 
-    * [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin) ` 🔥 130 `  - A GSAP plugin for tweening React.js component state. 
+    * [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin) ` 🔥 130 `  - A GSAP plugin for tweening React.js component state. ` 📝 7 years ago`
     * [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) ` 🔥 129 `  - Configure and build views using JSON schemas mapped to React components ` 📝 2 years ago`
     * [compose-state](https://github.com/tvler/compose-state) ` 🔥 119 `  - Compose multiple setState or getDerivedStateFromProps updaters in React 
     * [react-bacon](https://github.com/jamesmacaulay/react-bacon) ` 🔥 117 `  - A little module for using React with Bacon.js 
     * [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) ` 🔥 113 ` ` 🌐 12 ` - Create Redux-Forms dynamically out of metadata ` 📝 4 years ago`
-    * [reactdown](https://github.com/andreypopp/reactdown) ` 🔥 111 `  - Markdown based live document format 
-    * [React Page Middleware](https://github.com/reactjs/react-page-middleware) ` 🔥 107 `  - Connect/Express middleware to use React to generate whole websites 
+    * [reactdown](https://github.com/andreypopp/reactdown) ` 🔥 111 ` ` 🌐 31 ` - Markdown based live document format ` 📝 4 years ago`
+    * [React Page Middleware](https://github.com/reactjs/react-page-middleware) ` 🔥 107 `  - Connect/Express middleware to use React to generate whole websites ` 📝 5 years ago`
     * [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) ` 🔥 99 `  - Just tasting some ReactJS + RxJS ` 📝 7 years ago`
-    * [react-truncate-markup](https://github.com/parsable/react-truncate-markup) ` 🔥 93 ` ` 🌐 147 ` - React component for truncating JSX markup ` 📝 a month ago`
+    * [react-truncate-markup](https://github.com/parsable/react-truncate-markup) ` 🔥 95 `  - React component for truncating JSX markup ` 📝 a month ago`
     * [imvvm](https://github.com/entrendipity/imvvm) ` 🔥 86 ` ` 🌐 2 ` - Highly Composable MVVM Framework for React ` 📝 3 years ago`
     * [sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react) ` 🔥 84 `  - DEPRECATED – Sprockets preprocessor for CJSX (Coffeescript with React JSX markup) 
-    * [react-events](https://github.com/jhudson8/react-events) ` 🔥 83 `  - Declarative managed event bindings for react components 
+    * [react-events](https://github.com/jhudson8/react-events) ` 🔥 83 `  - Declarative managed event bindings for react components ` 📝 6 years ago`
     * [NestedReact](https://github.com/Volicon/NestedReact/) ` 🔥 79 `  - BackboneJS compatibility layer for React-MVx MVVM framework. 
-    * [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) ` 🔥 78 `  - React SBT Plugin using npm 
-    * [React.hiccup](https://github.com/lantiga/react.hiccup) ` 🔥 75 `  - React 0% JSX, 100% hiccup 
-    * [react-threejs](https://github.com/fritx/react-threejs) ` 🔥 67 `  - WIP: Simplest bindings between React & Three.js ` 📝 4 years ago`
-    * [react-kinetic](https://github.com/freiksenet/react-kinetic) ` 🔥 67 `  - HTML5 Canvas via KineticJS using React. 
+    * [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) ` 🔥 78 `  - React SBT Plugin using npm ` 📝 7 months ago`
+    * [react-kinetic](https://github.com/freiksenet/react-kinetic) ` 🔥 67 ` ` 🌐 2 ` - HTML5 Canvas via KineticJS using React. 
     * [extendable-immutable](https://github.com/philpl/extendable-immutable) ` 🔥 59 ` ` 🌐 67 ` - Wrapper classes around Immutable.js that turn it inheritable ` 📝 4 years ago`
-    * [react-form-builder](https://github.com/quri/react-form-builder) ` 🔥 54 ` ` 🌐 5 ` - A Form Builder for React.js (deprecated) ` 📝 4 years ago`
-    * [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) ` 🔥 53 ` ` 🌐 49 ` - Easily click and drag a react component ` 📝 2 years ago`
-    * [formjs](https://github.com/zackify/formjs) ` 🔥 49 `  - A form generator for Reactjs 'Alpachajs for React' Open the inspector on the demo page: 
-    * [react-xtags](https://github.com/vjeux/react-xtags/) ` 🔥 48 `  - Using React to implement xtags 
-    * [trunx](https://github.com/fibo/trunx) ` 🔥 47 ` ` 🌐 16 ` - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript ` 📝 22 days ago`
+    * [trunx](https://github.com/fibo/trunx) ` 🔥 49 ` ` 🌐 16 ` - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript ` 📝 23 days ago`
     * [instatype by @gragland](https://github.com/gragland/instatype) ` 🔥 47 `  - Mobile-friendly React autocomplete component 
-    * [reactbone](https://github.com/andrejewski/reactbone) ` 🔥 43 `  - React extensions for Backbone ` 📝 6 years ago`
-    * [List View Select](https://github.com/JamesWatling/react-native-list-view-select) ` 🔥 43 ` ` 🌐 67 ` - List View Select is a designed to behave like a traditional ``<select>`` element in traditional HTML but with native components. ` 📝 2 years ago`
-    * [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) ` 🔥 39 ` ` 🌐 973 ` - Official CKEditor 4 React component. ` 📝 8 days ago`
-    * [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) ` 🔥 37 `  - Autocomplete widget based on Facebook React 
+    * [reactbone](https://github.com/andrejewski/reactbone) ` 🔥 43 `  - React extensions for Backbone 
+    * [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) ` 🔥 37 `  - Autocomplete widget based on Facebook React ` 📝 4 years ago`
     * [react-topcoat by @plaxdan](https://github.com/plaxdan/react-topcoat) ` 🔥 36 `  - Topcoat components built with the React library 
     * [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) ` 🔥 33 `  - React mixin registration manager which allows mixins to have dependencies 
-    * [react-with-di](https://github.com/vojtajina/react-with-di) ` 🔥 29 `  - A hacked prototype of React.js with DI ;-) 
-    * [formland](https://github.com/indix/formland) ` 🔥 25 ` ` 🌐 1 ` - A simple, super-flexible, extensible config based form generator for React. ` 📝 2 years ago`
-    * [react-open-doodles](https://github.com/lunahq/react-open-doodles) ` 🔥 24 ` ` 🌐 11 ` - A Free Set of Sketchy Illustrations provided by opendoodles ` 📝 8 months ago`
-    * [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) ` 🔥 23 `  - Compile Jade templates into React de-sugared JSX with Gulp 
+    * [react-open-doodles](https://github.com/lunahq/react-open-doodles) ` 🔥 24 ` ` 🌐 12 ` - A Free Set of Sketchy Illustrations provided by opendoodles ` 📝 8 months ago`
+    * [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) ` 🔥 23 `  - Compile Jade templates into React de-sugared JSX with Gulp ` 📝 7 years ago`
     * [react-kup](https://github.com/snd/react-kup) ` 🔥 21 ` ` 🌐 9 ` - react-kup is a simple, nonintrusive alternative to JSX for coffeescript ` 📝 5 years ago`
-    * [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) ` 🔥 21 `  - A React mixin for using Metafizzy Packery 
-    * [backbone-reaction](https://github.com/jhudson8/backbone-reaction) ` 🔥 20 `  - react-backbone + more beefy react and backbone enhancements 
+    * [backbone-reaction](https://github.com/jhudson8/backbone-reaction) ` 🔥 20 `  - react-backbone + more beefy react and backbone enhancements ` 📝 6 years ago`
     * [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) ` 🔥 18 `  - React components for use with backbone and backbone paginator 
     * [StateTrooper](https://github.com/swipely/state-trooper) ` 🔥 12 `  - Centrally manage state for React applications with CSP ` 📝 10 months ago`
     * [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) ` 🔥 8 ` ` 🌐 2 ` - The coolest searchbox for React.js! ` 📝 2 months ago`
-    * [react-topcoat by @arnemart](https://github.com/arnemart/react-topcoat) ` 🔥 7 ` ` 🌐 3 ` - A collection of React components for Topcoat. ` 📝 6 years ago`
+    * [react-topcoat by @arnemart](https://github.com/arnemart/react-topcoat) ` 🔥 7 ` ` 🌐 3 ` - A collection of React components for Topcoat. 
     * [react-muze](https://github.com/chartshq/react-muze) ` 🔥 7 ` ` 🌐 2 ` - React SDK for Muze charting Library ` 📝 4 months ago`
     * [ClearX](https://github.com/Autodesk/clearx) ` 🔥 6 `  - ClearX is an alternative way to Redux and MobX to maintain the application state and provides a simple interface to bind it to UI components. ` 📝 a year ago`
-    * [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) ` 🔥 6 ` ` 🌐 1 ` - A reCAPTCHA bridge for React that works. ` 📝 7 months ago`
     * [universal-model-react](https://github.com/universal-model/universal-model-react) ` 🔥 5 ` ` 🌐 3 ` - Universal Model for React ` 📝 6 months ago`
-    * [aframe-react](https://github.com/ngokevin/aframe) ` 🔥 5 `  - Building Blocks for the VR Web ` 📝 2 years ago`
-    * [avers](https://github.com/wereHamster/avers) ` 🔥 4 `  - A model abstraction library 
+    * [avers](https://github.com/wereHamster/avers) ` 🔥 4 ` ` 🌐 3 ` - A model abstraction library 
     * [React.withBackbone](https://github.com/beanworks/React.withBackbone) ` 🔥 1 ` ` 🌐 3 ` - React Backbone Binding that works with React 16 ` 📝 4 years ago`
     * [@axe-core/react](https://github.com/dequelabs/axe-core-npm)   
     * [codesandbox](https://codesandbox.io/s/new)   
     * [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md)   
     * [Divjoy](https://divjoy.com)   
     * [Plasmic](https://www.plasmic.app/)   
+    * [Razzle](https://razzlejs.org/)   
+    * [Neutrino React Preset](https://neutrinojs.org/packages/react/)   
     * [remix](https://remix.run/)   
     * [reach](https://github.com/reach/router)   
     * [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2)   
@@ -410,14 +363,64 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
     * [Preact](https://git.io/preact)   
     * [AtlasKit](https://atlaskit.atlassian.com/)   
     * [ReasonReact](https://reasonml.github.io/reason-react/)   
+    * [react-xtags](https://github.com/vjeux/react-xtags/)   
+    * [jreact](https://github.com/KnisterPeter/jreact)   
+    * [React.hiccup](https://github.com/lantiga/react.hiccup)   
+    * [react-play](https://github.com/ssorallen/react-play)   
+    * [rx-react](https://github.com/fdecampredon/rx-react)   
+    * [react-with-di](https://github.com/vojtajina/react-with-di)   
+    * [reactfire](https://github.com/firebase/reactfire)   
+    * [firedux](https://github.com/AndersDJohnson/firedux)   
+    * [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin)   
     * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)   
+    * [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin)   
+    * [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin)   
+    * [react-dropzone](https://github.com/paramaggarwal/react-dropzone)   
+    * [aframe-react](https://github.com/ngokevin/aframe)   
+    * [react-three-fiber](https://github.com/react-spring/react-three-fiber)   
+    * [react-three](https://github.com/Izzimach/react-three)   
+    * [react-three-renderer](https://github.com/toxicFork/react-three-renderer)   
+    * [react-threejs](https://github.com/fritx/react-threejs)   
+    * [react-masonry-css](https://github.com/paulcollett/react-masonry-css)   
+    * [react-captcha](https://github.com/appleboy/react-recaptcha)   
+    * [reaptcha](https://github.com/sarneeh/reaptcha)   
+    * [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works)   
+    * [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react)   
+    * [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react)   
     * [redux](#redux)   
     * [mobx](#mobx)   
     * [flux](http://facebook.github.io/flux/)   
+    * [recoil](https://github.com/facebookexperimental/Recoil)   
+    * [xState](https://github.com/davidkpiano/xstate)   
     * [react-query](https://react-query.tanstack.com/)   
     * [Viro React](https://viromedia.com/viroreact/)   
+    * [React Sketch.app](https://github.com/airbnb/react-sketchapp)   
+    * [React Figma](https://github.com/react-figma/react-figma)   
+    * [react-three-fiber](https://github.com/pmndrs/react-three-fiber)   
+    * [react-nil](https://github.com/pmndrs/react-nil)   
+    * [React PDF](https://github.com/diegomura/react-pdf)   
+    * [React Hardware](https://github.com/iamdustan/react-hardware)   
     * [React Forms](http://facebook.github.io/react/docs/forms.html)   
+    * [react-formal](https://github.com/jquense/react-formal)   
+    * [react-forms](https://github.com/prometheusresearch/react-forms)   
+    * [valuelink](https://github.com/Volicon/valuelink)   
+    * [wingspan-forms](https://github.com/wingspan/wingspan-forms)   
+    * [newforms](https://github.com/insin/newforms)   
+    * [formjs](https://github.com/zackify/formjs)   
+    * [react-form-builder](https://github.com/quri/react-form-builder)   
+    * [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form)   
     * [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)   
+    * [uniforms](https://github.com/vazco/uniforms)   
+    * [formik](https://github.com/jaredpalmer/formik)   
+    * [NeoForm](https://github.com/zero-plus-x/neoform)   
+    * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)   
+    * [List View Select](https://github.com/JamesWatling/react-native-list-view-select)   
+    * [Final Form 🏁](https://github.com/final-form/react-final-form)   
+    * [formland](https://github.com/indix/formland)   
+    * [react-reactive-form](https://github.com/bietkul/react-reactive-form)   
+    * [unform](https://github.com/Rocketseat/unform)   
+    * [react-hook-form](https://github.com/react-hook-form/react-hook-form)   
+    * [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete)   
     * [valuable](https://github.com/josephsavona/valuable)   
     * [MobX](#mobx)   
     * [tydel](http://tydel.js.org)   
@@ -432,7 +435,7 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### React Native General Resources [🔝](#readme)
 
-    * [React Native GitHub](https://github.com/facebook/react-native) ` 🔥 93.3k ` ` 🌐 593k ` - A framework for building native apps with React. ` 📝 a day ago`
+    * [React Native GitHub](https://github.com/facebook/react-native) ` 🔥 93.3k ` ` 🌐 593k ` - A framework for building native apps with React. ` 📝 2 days ago`
     * [React Native Official Site](https://facebook.github.io/react-native/)   
     * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)   
     * [React Native Playground](https://rnplay.org/)   
@@ -464,73 +467,73 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
     * [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) ` 🔥 1.9k `  - [Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). ` 📝 3 years ago`
     * [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native) ` 🔥 285 `  - Ziliun article reader android app built with React Native ` 📝 5 years ago`
     * [NBAreact](https://github.com/jbkuczma/NBAreact) ` 🔥 104 `  - iOS and Android NBA app created with React Native ` 📝 2 years ago`
-    * [SplashWalls](https://github.com/nashvail/SplashWalls) ` 🔥 72 `  - iOS Wallpaper downloading app created in React Native. 
+    * [SplashWalls](https://github.com/nashvail/SplashWalls) ` 🔥 72 `  - iOS Wallpaper downloading app created in React Native. ` 📝 4 years ago`
     * [Bus Timetable](https://github.com/EarlGeorge/timetable) ` 🔥 11 `  - Bus Timetable app React Native ` 📝 a month ago`
   
 * #### React Native Boilerplates [🔝](#readme)
 
-    * [Create React Native App](https://github.com/react-community/create-react-native-app) ` 🔥 12.5k ` ` 🌐 321 ` - Create React Native apps that run on iOS, Android, and web ` 📝 10 days ago`
-    * [Ignite](https://github.com/infinitered/ignite) ` 🔥 12k ` ` 🌐 23 ` - The hottest CLI for React Native, boilerplates, plugins, generators, and more! ` 📝 4 days ago`
+    * [Create React Native App](https://github.com/react-community/create-react-native-app) ` 🔥 12.5k ` ` 🌐 322 ` - Create React Native apps that run on iOS, Android, and web ` 📝 2 days ago`
+    * [Ignite](https://github.com/infinitered/ignite) ` 🔥 12k ` ` 🌐 23 ` - The hottest CLI for React Native, boilerplates, plugins, generators, and more! ` 📝 5 days ago`
     * [Snowflake](https://github.com/bartonhammond/snowflake) ` 🔥 4.6k ` ` 🌐 19 ` - A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku ` 📝 2 years ago`
     * [React Native Starter Kit](https://github.com/flatlogic/react-native-starter) ` 🔥 1.6k `  - A powerful react native starter template that bootstraps development of your mobile application ` 📝 4 months ago`
   
 * #### React Native Awesome Components [🔝](#readme)
 
-    * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ` 🔥 14.4k ` ` 🌐 218k ` - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. ` 📝 24 days ago`
-    * [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) ` 🔥 10.2k ` ` 🌐 13.9k ` - The most complete chat UI for React Native ` 📝 5 months ago`
+    * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ` 🔥 14.5k ` ` 🌐 219k ` - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. ` 📝 25 days ago`
+    * [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) ` 🔥 10.2k ` ` 🌐 13.9k ` - The most complete chat UI for React Native ` 📝 18 hours ago`
     * [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) ` 🔥 5.6k ` ` 🌐 4.4k ` - FastImage, performant React Native image component. ` 📝 3 months ago`
-    * [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) ` 🔥 3.9k ` ` 🌐 295k ` - Declarative API exposing platform native touch and gesture system to React Native. ` 📝 4 days ago`
-    * [recyclerlistview](https://github.com/Flipkart/recyclerlistview) ` 🔥 3.4k ` ` 🌐 1k ` - High performance listview for React Native and web! ` 📝 18 days ago`
+    * [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) ` 🔥 3.9k ` ` 🌐 296k ` - Declarative API exposing platform native touch and gesture system to React Native. ` 📝 6 hours ago`
+    * [recyclerlistview](https://github.com/Flipkart/recyclerlistview) ` 🔥 3.4k ` ` 🌐 1k ` - High performance listview for React Native and web! ` 📝 19 days ago`
     * [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) ` 🔥 3k ` ` 🌐 7.3k ` - A React Native wrapper around the Facebook SDKs for Android and iOS. Provides access to Facebook login, sharing, graph requests, app events etc. ` 📝 3 months ago`
-    * [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) ` 🔥 2.2k ` ` 🌐 5.2k ` - Side menu component for React Native ` 📝 8 months ago`
+    * [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) ` 🔥 2.2k ` ` 🌐 5.2k ` - Side menu component for React Native ` 📝 9 months ago`
     * [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) ` 🔥 2.1k ` ` 🌐 799 ` - A Mapbox GL react native module for creating custom maps ` 📝 a year ago`
-    * [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) ` 🔥 2.1k ` ` 🌐 2.5k ` - Google Sign-in for your React Native applications ` 📝 23 days ago`
+    * [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) ` 🔥 2.1k ` ` 🌐 2.5k ` - Google Sign-in for your React Native applications ` 📝 24 days ago`
     * [react-native-largelist](https://github.com/bolan9999/react-native-largelist) ` 🔥 2k ` ` 🌐 72 ` - The best large list component for React Native. ` 📝 a year ago`
     * [rn-placeholder](https://github.com/mfrachet/rn-placeholder) ` 🔥 1.7k ` ` 🌐 789 ` - Display some placeholder stuff before rendering your text or media content in React Native ` 📝 5 months ago`
-    * [react-native-icons](https://github.com/corymsmith/react-native-icons) ` 🔥 1.2k ` ` 🌐 938 ` - Quick and easy icons in React Native ` 📝 4 years ago`
-    * [react-native-social-share](https://github.com/doefler/react-native-social-share) ` 🔥 402 ` ` 🌐 91 ` - Use the iOS and Android native Twitter and Facebook share popup with React Native https://github.com/doefler/react-native-social-share ` 📝 a year ago`
-    * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) ` 🔥 126 ` ` 🌐 135 ` - An unified React Native Picker Modal component for iOS and Android. ` 📝 a month ago`
+    * [react-native-icons](https://github.com/corymsmith/react-native-icons) ` 🔥 1.2k ` ` 🌐 941 ` - Quick and easy icons in React Native ` 📝 4 years ago`
+    * [react-native-social-share](https://github.com/doefler/react-native-social-share) ` 🔥 403 ` ` 🌐 91 ` - Use the iOS and Android native Twitter and Facebook share popup with React Native https://github.com/doefler/react-native-social-share ` 📝 a year ago`
+    * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) ` 🔥 126 ` ` 🌐 136 ` - An unified React Native Picker Modal component for iOS and Android. ` 📝 a month ago`
     * [Expo](https://expo.io/)   
     * [react-navigation](https://reactnavigation.org/)   
   
 * #### React Native Libraries [🔝](#readme)
 
-    * [react-native-device-info](https://github.com/react-native-community/react-native-device-info) ` 🔥 5.2k ` ` 🌐 10.4k ` - Device Information for React Native iOS and Android ` 📝 22 days ago`
-    * [realm-js](https://github.com/realm/realm-js) ` 🔥 4.2k ` ` 🌐 5.1k ` - Realm is a mobile database: an alternative to SQLite & key-value stores ` 📝 6 days ago`
-    * [sentry-react-native](https://github.com/getsentry/sentry-react-native) ` 🔥 1k ` ` 🌐 843 ` - Official Sentry SDK for react-native ` 📝 10 days ago`
+    * [react-native-device-info](https://github.com/react-native-community/react-native-device-info) ` 🔥 5.2k ` ` 🌐 10.4k ` - Device Information for React Native iOS and Android ` 📝 23 days ago`
+    * [realm-js](https://github.com/realm/realm-js) ` 🔥 4.2k ` ` 🌐 5.1k ` - Realm is a mobile database: an alternative to SQLite & key-value stores ` 📝 a day ago`
+    * [sentry-react-native](https://github.com/getsentry/sentry-react-native) ` 🔥 1k ` ` 🌐 861 ` - Official Sentry SDK for react-native ` 📝 11 days ago`
   
 ## Redux [🔝](#readme)
 
   
 * #### Redux General Resources [🔝](#readme)
 
-    * [Redux GitHub](https://github.com/reactjs/redux) ` 🔥 55.3k ` ` 🌐 1.5m ` - Predictable state container for JavaScript apps ` 📝 10 days ago`
+    * [Redux GitHub](https://github.com/reactjs/redux) ` 🔥 55.3k ` ` 🌐 1.5m ` - Predictable state container for JavaScript apps ` 📝 11 days ago`
     * [Redux Official Site](http://redux.js.org/)   
     * [Awesome Redux List](https://github.com/xgrommx/awesome-redux)   
   
 * #### Redux Tools [🔝](#readme)
 
     * [redux-saga](https://github.com/redux-saga/redux-saga) ` 🔥 21.3k ` ` 🌐 165k ` - An alternative side effect model for Redux apps ` 📝 2 months ago`
-    * [react-redux](https://github.com/reactjs/react-redux) ` 🔥 20.6k ` ` 🌐 1.3m ` - Official React bindings for Redux ` 📝 a month ago`
-    * [normalizr](https://github.com/paularmstrong/normalizr) ` 🔥 19.8k ` ` 🌐 13.6k ` - Normalizes nested JSON according to a schema ` 📝 a month ago`
-    * [reselect](https://github.com/reduxjs/reselect) ` 🔥 17.6k ` ` 🌐 470k ` - Selector library for Redux ` 📝 4 days ago`
-    * [redux-thunk](https://github.com/gaearon/redux-thunk) ` 🔥 15.9k ` ` 🌐 784k ` - Thunk middleware for Redux ` 📝 3 months ago`
-    * [redux-form](https://github.com/erikras/redux-form) ` 🔥 12.5k ` ` 🌐 91.6k ` - A Higher Order Component using react-redux to keep form state in a Redux store ` 📝 3 months ago`
-    * [redux-devtools](https://github.com/reduxjs/redux-devtools) ` 🔥 11.8k ` ` 🌐 156 ` - DevTools for Redux with hot reloading, action replay, and customizable UI ` 📝 a month ago`
-    * [redux-persist](https://github.com/rt2zz/redux-persist) ` 🔥 11k ` ` 🌐 78.1k ` - persist and rehydrate a redux store ` 📝 a year ago`
+    * [react-redux](https://github.com/reactjs/react-redux) ` 🔥 20.6k ` ` 🌐 1.3m ` - Official React bindings for Redux 
+    * [normalizr](https://github.com/paularmstrong/normalizr) ` 🔥 19.9k ` ` 🌐 13.6k ` - Normalizes nested JSON according to a schema ` 📝 a month ago`
+    * [reselect](https://github.com/reduxjs/reselect) ` 🔥 17.6k ` ` 🌐 470k ` - Selector library for Redux ` 📝 5 days ago`
+    * [redux-thunk](https://github.com/gaearon/redux-thunk) ` 🔥 15.9k ` ` 🌐 787k ` - Thunk middleware for Redux ` 📝 3 months ago`
+    * [redux-form](https://github.com/erikras/redux-form) ` 🔥 12.5k ` ` 🌐 91.8k ` - A Higher Order Component using react-redux to keep form state in a Redux store ` 📝 3 months ago`
+    * [redux-devtools](https://github.com/reduxjs/redux-devtools) ` 🔥 11.8k ` ` 🌐 157 ` - DevTools for Redux with hot reloading, action replay, and customizable UI ` 📝 a month ago`
+    * [redux-persist](https://github.com/rt2zz/redux-persist) ` 🔥 11k ` ` 🌐 78.5k ` - persist and rehydrate a redux store ` 📝 a year ago`
     * [react-router-redux](https://github.com/reactjs/react-router-redux) ` 🔥 7.9k ` ` 🌐 153k ` - Ruthlessly simple bindings to keep react-router and redux in sync ` 📝 2 years ago`
-    * [redux-observable](https://github.com/redux-observable/redux-observable) ` 🔥 7.5k ` ` 🌐 12.7k ` - RxJS middleware for action side effects in Redux using 'Epics' ` 📝 9 months ago`
+    * [redux-observable](https://github.com/redux-observable/redux-observable) ` 🔥 7.6k ` ` 🌐 12.7k ` - RxJS middleware for action side effects in Redux using 'Epics' ` 📝 9 months ago`
     * [redux-logger](https://github.com/theaqua/redux-logger) ` 🔥 5.4k ` ` 🌐 259k ` - Logger for Redux ` 📝 2 years ago`
-    * [redux-toolkit](https://github.com/reduxjs/redux-toolkit) ` 🔥 4.9k ` ` 🌐 35.9k ` - The official, opinionated, batteries-included toolset for efficient Redux development ` 📝 a month ago`
-    * [redux-undo](https://github.com/omnidan/redux-undo) ` 🔥 2.6k ` ` 🌐 2.7k ` - higher order reducer to add undo/redo functionality to redux state containers ` 📝 8 months ago`
-    * [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) ` 🔥 2.3k ` ` 🌐 66.1k ` - A mock store for testing Redux async action creators and middleware. ` 📝 a year ago`
-    * [redux-immutable](https://github.com/gajus/redux-immutable) ` 🔥 1.9k ` ` 🌐 29.6k ` - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state. ` 📝 2 years ago`
+    * [redux-toolkit](https://github.com/reduxjs/redux-toolkit) ` 🔥 4.9k ` ` 🌐 36.6k ` - The official, opinionated, batteries-included toolset for efficient Redux development ` 📝 a month ago`
+    * [redux-undo](https://github.com/omnidan/redux-undo) ` 🔥 2.6k ` ` 🌐 2.7k ` - higher order reducer to add undo/redo functionality to redux state containers ` 📝 9 months ago`
+    * [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) ` 🔥 2.3k ` ` 🌐 66.4k ` - A mock store for testing Redux async action creators and middleware. ` 📝 a year ago`
+    * [redux-immutable](https://github.com/gajus/redux-immutable) ` 🔥 1.9k ` ` 🌐 29.7k ` - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state. ` 📝 2 years ago`
     * [redux-search](https://github.com/bvaughn/redux-search) ` 🔥 1.4k ` ` 🌐 127 ` - Redux bindings for client-side search ` 📝 2 years ago`
-    * [redux-analytics](https://github.com/markdalgleish/redux-analytics) ` 🔥 489 ` ` 🌐 139 ` - Analytics middleware for Redux ` 📝 4 years ago`
+    * [redux-analytics](https://github.com/markdalgleish/redux-analytics) ` 🔥 489 ` ` 🌐 139 ` - Analytics middleware for Redux 
     * [redux-react-i18n](https://github.com/derzunov/redux-react-i18n) ` 🔥 64 ` ` 🌐 33 ` - An i18n solution for React/Redux and React Native projects ` 📝 2 years ago`
     * [redux-actiontyper](https://github.com/alnorris/redux-actiontyper) ` 🔥 58 `  - Helper to create less verbose action types for Redux 
     * [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) ` 🔥 55 ` ` 🌐 2 ` - Declarative Side Effects for Redux ` 📝 3 years ago`
-    * [R16N](https://github.com/razodeh/r16n/) ` 🔥 6 ` ` 🌐 1 ` - A Redux Internationalization with bindings ` 📝 3 years ago`
+    * [R16N](https://github.com/razodeh/r16n/) ` 🔥 6 ` ` 🌐 1 ` - A Redux Internationalization with bindings 
     * [redux-state-validator](https://github.com/suyesh/redux-state-validator)   
   
 * #### Redux Tutorials [🔝](#readme)
@@ -558,7 +561,7 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### MobX General Resources [🔝](#readme)
 
-    * [MobX GitHub](https://github.com/mobxjs/mobx) ` 🔥 23.2k ` ` 🌐 75.8k ` - Simple, scalable state management. ` 📝 11 hours ago`
+    * [MobX GitHub](https://github.com/mobxjs/mobx) ` 🔥 23.2k ` ` 🌐 75.8k ` - Simple, scalable state management. ` 📝 a day ago`
     * [MobX Official Site](https://mobx.js.org/README.html)   
   
 * #### MobX Tools [🔝](#readme)
@@ -577,13 +580,13 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### GraphQL Spec [🔝](#readme)
 
-    * [GraphQL Specification Repository](https://github.com/facebook/graphql) ` 🔥 13.1k `  - GraphQL is a query language and execution engine tied to any backend service. ` 📝 7 days ago`
+    * [GraphQL Specification Repository](https://github.com/facebook/graphql) ` 🔥 13.2k `  - GraphQL is a query language and execution engine tied to any backend service. ` 📝 8 days ago`
     * [GraphQL Official Site](http://graphql.org/)   
     * [GraphQL Specification](https://github.com/graphql/graphql-spec/tree/master/spec)   
   
 * #### GraphQL Tools [🔝](#readme)
 
-    * [GraphQL Playground](https://github.com/graphql/graphql-playground) ` 🔥 6.9k ` ` 🌐 84.2k ` - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) ` 📝 7 days ago`
+    * [GraphQL Playground](https://github.com/graphql/graphql-playground) ` 🔥 6.9k ` ` 🌐 84.2k ` - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) ` 📝 8 days ago`
     * [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms) ` 🔥 372 ` ` 🌐 1 ` - Use your existing graphQL schema to generate CMS in a couple steps. DEMO: http://cms-demo.web4fly.com/ ` 📝 3 years ago`
     * [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql) ` 🔥 224 ` ` 🌐 54 ` - Use Mongoose schema to generate graphQL type. ` 📝 a year ago`
     * [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link) ` 🔥 59 ` ` 🌐 11 ` - When you don't have GraphQL server (yet) and want to use GraphQL on the client. ` 📝 2 years ago`
@@ -603,12 +606,12 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### GraphQL Implementations [🔝](#readme)
 
-    * [graphql-js](https://github.com/graphql/graphql-js) ` 🔥 17.2k ` ` 🌐 427k ` - A reference implementation of GraphQL for JavaScript ` 📝 7 days ago`
-    * [graphql-go](https://github.com/graphql-go/graphql) ` 🔥 7.3k `  - An implementation of GraphQL for Go / Golang 
-    * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) ` 🔥 4.6k ` ` 🌐 7.2k ` - Ruby implementation of GraphQL ` 📝 3 days ago`
+    * [graphql-js](https://github.com/graphql/graphql-js) ` 🔥 17.2k ` ` 🌐 429k ` - A reference implementation of GraphQL for JavaScript ` 📝 13 hours ago`
+    * [graphql-go](https://github.com/graphql-go/graphql) ` 🔥 7.4k `  - An implementation of GraphQL for Go / Golang ` 📝 6 days ago`
+    * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) ` 🔥 4.6k ` ` 🌐 7.3k ` - Ruby implementation of GraphQL ` 📝 12 hours ago`
     * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) ` 🔥 4.6k ` ` 🌐 2.6k ` - GraphQL for .NET ` 📝 3 days ago`
-    * [graphql-php](https://github.com/webonyx/graphql-php) ` 🔥 3.9k ` ` 🌐 6.3k ` - A PHP port of GraphQL reference implementation ` 📝 7 days ago`
-    * [sangria](https://github.com/sangria-graphql/sangria) ` 🔥 1.8k `  - Scala GraphQL implementation ` 📝 5 days ago`
+    * [graphql-php](https://github.com/webonyx/graphql-php) ` 🔥 3.9k ` ` 🌐 6.3k ` - A PHP port of GraphQL reference implementation ` 📝 8 days ago`
+    * [sangria](https://github.com/sangria-graphql/sangria) ` 🔥 1.8k `  - Scala GraphQL implementation ` 📝 6 days ago`
     * [react-transmit](https://github.com/RickWong/react-transmit) ` 🔥 1.3k ` ` 🌐 173 ` - Relay-inspired library based on Promises instead of GraphQL. ` 📝 4 years ago`
     * [graphqllib](https://github.com/dittos/graphqllib) ` 🔥 161 `  - Please see https://github.com/graphql-python/graphql-core 
     * [graphql-java](https://github.com/howtographql/graphql-java)   
@@ -617,14 +620,14 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
 * #### Server Integration [🔝](#readme)
 
     * [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) ` 🔥 6.3k ` ` 🌐 23.8k ` - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience ` 📝 10 months ago`
-    * [express-graphql](https://github.com/graphql/express-graphql) ` 🔥 5.8k ` ` 🌐 142k ` - Create a GraphQL HTTP server with Express. ` 📝 6 days ago`
+    * [express-graphql](https://github.com/graphql/express-graphql) ` 🔥 5.8k ` ` 🌐 142k ` - Create a GraphQL HTTP server with Express. ` 📝 7 days ago`
   
 * #### Database Integration [🔝](#readme)
 
-    * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) ` 🔥 1.8k ` ` 🌐 700 ` - GraphQL & Relay for MySQL & Postgres via Sequelize ` 📝 16 days ago`
-    * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) ` 🔥 1k `  - GraphQL for Postgres ` 📝 4 years ago`
+    * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) ` 🔥 1.8k ` ` 🌐 700 ` - GraphQL & Relay for MySQL & Postgres via Sequelize ` 📝 17 days ago`
+    * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) ` 🔥 1k `  - GraphQL for Postgres 
     * [graffiti](https://github.com/RisingStack/graffiti) ` 🔥 1k ` ` 🌐 166 ` - DEVELOPMENT DISCONTINUED - Node.js GraphQL ORM ` 📝 4 years ago`
-    * [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) ` 🔥 561 ` ` 🌐 3 ` - Generate a GraphQL API based on your SQL database structure 
+    * [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) ` 🔥 561 ` ` 🌐 3 ` - Generate a GraphQL API based on your SQL database structure ` 📝 2 years ago`
     * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) ` 🔥 186 ` ` 🌐 22 ` - Some help defining GraphQL schema around BookshelfJS models ` 📝 a year ago`
     * [Hasura](https://hasura.io/)   
     * [Prisma](https://www.prisma.io/)   
@@ -634,7 +637,7 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### Relay General Resources [🔝](#readme)
 
-    * [Relay GitHub](https://github.com/facebook/relay) ` 🔥 15.4k ` ` 🌐 3.7k ` - Relay is a JavaScript framework for building data-driven React applications. ` 📝 3 days ago`
+    * [Relay GitHub](https://github.com/facebook/relay) ` 🔥 15.4k ` ` 🌐 3.7k ` - Relay is a JavaScript framework for building data-driven React applications. ` 📝 4 days ago`
     * [Relay Offical Site](https://relay.dev/)   
   
 * #### Relay Tutorials [🔝](#readme)
@@ -646,10 +649,10 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### Relay Tools [🔝](#readme)
 
-    * [relay-codemod](https://github.com/facebook/jscodeshift) ` 🔥 6.1k ` ` 🌐 81.3k ` - A JavaScript codemod toolkit. ` 📝 21 days ago`
+    * [relay-codemod](https://github.com/facebook/jscodeshift) ` 🔥 6.1k ` ` 🌐 81.3k ` - A JavaScript codemod toolkit. ` 📝 22 days ago`
     * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) ` 🔥 1.3k ` ` 🌐 50k ` - A library to help construct a graphql-js server supporting react-relay. ` 📝 2 months ago`
     * [react-router-relay](https://github.com/relay-tools/react-router-relay) ` 🔥 562 `  - [Deprecated] Relay Classic integration for React Router ` 📝 3 years ago`
-    * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) ` 🔥 248 `  - Use Relay without a GraphQL server ` 📝 4 days ago`
+    * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) ` 🔥 248 `  - Use Relay without a GraphQL server ` 📝 5 days ago`
   
 ## Apollo [🔝](#readme)
 
@@ -717,8 +720,8 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
 
 * [kibana](https://github.com/elastic/kibana) ` 🔥 15.5k ` ` 🌐 5 ` - Your window into the Elastic Stack 
 * [spectrum](https://github.com/withspectrum/spectrum) ` 🔥 9.6k `  - Simple, powerful online communities. ` 📝 a month ago `
-* [winamp2-js](https://github.com/captbaritone/winamp2-js) ` 🔥 7.7k ` ` 🌐 77 ` - Winamp 2 reimplemented for the browser ` 📝 16 days ago `
+* [winamp2-js](https://github.com/captbaritone/winamp2-js) ` 🔥 7.7k ` ` 🌐 77 ` - Winamp 2 reimplemented for the browser ` 📝 17 days ago `
 * [overreacted](https://github.com/gaearon/overreacted.io) ` 🔥 5.9k `  - Personal blog by Dan Abramov. ` 📝 6 months ago `
 * [firefox debugger](https://github.com/firefox-devtools/debugger) ` 🔥 4.6k `  - The faster and smarter Debugger for Firefox DevTools ` 📝 a year ago `
 * [dnote](https://github.com/dnote/dnote) ` 🔥 2k `  - A simple command line notebook for programmers ` 📝 a month ago `
-* [mattermost](https://github.com/mattermost/mattermost-webapp) ` 🔥 1.1k `  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server ` 📝 3 days ago `
+* [mattermost](https://github.com/mattermost/mattermost-webapp) ` 🔥 1.1k `  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server ` 📝 4 days ago `
