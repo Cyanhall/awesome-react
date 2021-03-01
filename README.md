@@ -114,9 +114,9 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
   
 * #### React Tools [🔝](#readme)
 
-    * [react-testing-library](https://github.com/testing-library/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 8 days ago`
+    * [react-testing-library](https://github.com/testing-library/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 9 days ago`
     * [react-hot-loader](https://github.com/gaearon/react-hot-loader) ` 🔥 12k ` ` 🌐 323k ` - Tweak React components in real time. (Deprecated: use Fast Refresh instead.) ` 📝 5 months ago`
-    * [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) ` 🔥 3.3k ` ` 🌐 12.8k ` - Simple and complete React hooks testing utilities that encourage good testing practices. ` 📝 4 days ago`
+    * [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) ` 🔥 3.3k ` ` 🌐 12.8k ` - Simple and complete React hooks testing utilities that encourage good testing practices. ` 📝 5 days ago`
     * [react-devtools](https://github.com/facebook/react-devtools)   
     * [react-loadable](https://github.com/jamiebuilds/react-loadable)   
     * [loadable-components](https://github.com/smooth-code/loadable-components)   
