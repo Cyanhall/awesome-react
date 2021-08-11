@@ -377,7 +377,8 @@ Original Data from [Awesome React](https://github.com/enaqx/awesome-react/blob/m
     * [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react)   
     * [Viro React](https://viromedia.com/viroreact/)   
     * [react-leaflet](https://react-leaflet.js.org/)   
-  
+    * [Destack](https://github.com/liveduo/destack) - A landing page builder based on Next.js that works locally.
+
 ## React Native [🔝](#readme)
 
   
